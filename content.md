@@ -265,9 +265,10 @@ This route makes one clockwise loop, so there's no doubling back: Fantasyland, S
 | 10:00am | Tomorrowland | Buzz Lightyear, Tomorrowland Speedway, the PeopleMover. | Yes, for Buzz |
 | 11:15am | Castle | Castle photos with the holiday decorations on the way across. |  |
 | 11:30am | Adventureland | Jungle Cruise, Magic Carpets of Aladdin, Pirates of the Caribbean. | Yes, for Jungle Cruise |
-| 12:30pm | Frontierland | Lunch at Pecos Bill, then Big Thunder (Rider Switch, so you and Yusif each ride with Sami). | Yes, for Big Thunder |
-| 1:45pm | Liberty Square | Haunted Mansion. | Yes, or a short standby |
-| 2:15pm | Fantasyland | Cool-down: Mickey's PhilharMagic is air-conditioned and seated. Aydin naps in the stroller. |  |
+| 12:30pm | Frontierland | Lunch at Pecos Bill, then the Country Bear Musical Jamboree right next door, Dad's pick for the boys. It's a seated indoor show of about 15 minutes, and everyone can go. | Not needed: walk-in show |
+| 1:15pm | Frontierland | Big Thunder (Rider Switch, so you and Yusif each ride with Sami). | Yes, for Big Thunder |
+| 1:45pm | Liberty Square | Dad and Yusif see the Hall of Presidents on their own, a seated show of about 25 minutes (the app has show times). You, Mom and the boys ride Haunted Mansion across the square. | Yes for Haunted Mansion, or a short standby |
+| 2:20pm | Fantasyland | Everyone meets back up. Cool-down: Mickey's PhilharMagic is air-conditioned and seated. Aydin naps in the stroller. |  |
 | 3:00pm | Fantasyland | it's a small world, the Carrousel, Mad Tea Party, and Sami's favorite re-rides. | Not needed: short lines |
 | 4:30pm | Main Street | Shopping and last photos. Party guests arrive from 4pm. |  |
 | 5:30pm | Bus stop | Head out ahead of the 6pm close. |  |
