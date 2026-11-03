@@ -61,7 +61,7 @@ All five flights were booked through Flight Network, so its chat and the My Book
 - Check-in: opens Fri Nov 6 at 10:37am in the Frontier app.
 - At the airport: Frontier says to arrive 2 to 3 hours early. Bags have to be checked by 9:37am, and you need to be at the gate by 9:52am.
 - Gate: <span class="gate" data-flight="frontier">posted that morning</span>
-- Bags: a personal item and a 40 lb checked bag each. A bag between 41 and 50 lb costs $75 extra.
+- Bags: a personal item (up to 18 x 14 x 8 inches) and a 40 lb checked bag each, no bigger than 62 inches total (length plus width plus height). A bag between 41 and 50 lb costs $75 extra. The Breeze flight home allows 50 lb, so there's 10 extra pounds of room on the way back.
 
 Landing in Orlando: Grayson Towncar meets all six of us in baggage claim at 1:23pm.
 
@@ -83,7 +83,7 @@ Landing in Orlando: Grayson Towncar meets all six of us in baggage claim at 1:23
 - Seats: not chosen yet. Check in the American app.
 - Check-in: opens Fri Nov 13 at 3:58pm in the American app.
 - Gate: <span class="gate" data-flight="american">posted that morning</span>
-- Bags: a personal item and a carry-on each. Flight Network can't add checked bags to this fare, so pay for one each when you check them in on the American app Friday evening: $50 a bag online, $55 at the airport counter.
+- Bags: a personal item and a carry-on each, plus a checked bag each paid at the American counter at RDU, about $55 a bag. Checked bags can be up to 50 lb and 62 inches total, the same as Breeze.
 
 ### Bags by flight {#bags-by-flight}
 
@@ -95,7 +95,7 @@ The goal: Mom and Dad each get a checked bag and a personal item on every flight
 | Sat Nov 7, Frontier PHL to MCO (Mom and Dad) | A personal item and a 40 lb (18 kg) checked bag each | Nothing |
 | Fri Nov 13, Breeze MCO to RDU (our family) | 2 checked bags (Erin, Yusif), 1 carry-on (Erin), 3 personal items (Erin, Yusif, Sami) | Nothing to buy. Aydin rides on a lap with no allowance, so ask Breeze about a diaper bag or fit his things in the other bags. |
 | Fri Nov 13, Breeze MCO to RDU (Mom and Dad) | A personal item and a 50 lb (23 kg) checked bag each | Nothing |
-| Sat Nov 14, RDU to PHL (Mom and Dad) | A personal item and a carry-on each | 1 checked bag each, paid at online check-in ($50 each) |
+| Sat Nov 14, RDU to PHL (Mom and Dad) | A personal item and a carry-on each | 1 checked bag each, paid at the RDU counter (about $55 each) |
 
 Splitting the 2 Southwest bags between you and Yusif costs $90. Putting both on one person would be $100, since a second bag is $55. If you have a Southwest credit card linked to the booking, your first bag may be free. Pack to 40 lb for Frontier and 50 lb for Southwest and Breeze.
 
@@ -130,7 +130,7 @@ The two most time-sensitive items are Sami's and Dad's park tickets and the stro
 - [ ] Confirm Emiline moved Monday's car from 10:30am to about 12:30pm.
 - [ ] Aydin's Southwest seat: a Flight Network supervisor is adding it and will email you. If there's no email by Wednesday, call Southwest at 1-800-435-9792 and ask them to sell him his own seat on WN3618 next to you. If the 2 checked bags (one under you, one under Yusif) aren't added before then, pay for them when you check in on the Southwest app Friday at 11:10am.
 - [ ] Breeze home: nothing to buy. Ask whether Aydin can bring a diaper bag as a lap child; if not, his things go in the family's bags.
-- [ ] Mom and Dad's Nov 14 bags: Flight Network can't add them. Check them in on the American app on Fri Nov 13 after 3:58pm and pay for a checked bag each there ($50 online, $55 at the airport).
+- [ ] Mom and Dad's Nov 14 bags: they'll pay for a checked bag each at the American counter at RDU, about $55 a bag, up to 50 lb and 62 inches.
 - [ ] Register Sami for the kids club by Friday on the Disney Cruise Line website, or at the open house Monday after you board (steps in Sami's section).
 - [ ] Decide on Lightning Lane Multi Pass for Nov 8. You can also decide that morning once you see the wait times.
 - [x] Disney Cruise online check-in for both reservations
@@ -555,8 +555,8 @@ This free app is the ship's daily schedule: show times, dining, character visits
 **Before they leave**
 
 - [x] Checked bags paid on Frontier (flight down) and Breeze (flight home with us)
-- [ ] Checked bags for the Nov 14 flight home to Philadelphia get paid at check-in. Check-in opens Friday at 3:58pm, right after we land in Raleigh, and Erin can do it on her phone that evening. It's $50 a bag online and $55 at the airport.
-- [ ] Weigh the Frontier bags at home. The limit is 40 lb each.
+- [ ] Nov 14 flight home to Philadelphia: pay for a checked bag each at the American counter at RDU, about $55 a bag. The limit is 50 lb and 62 inches total, the same as Breeze, so bags packed for the Breeze flight work as they are. Over 50 lb costs a lot more.
+- [ ] Weigh the Frontier bags at home. The limit is 40 lb and 62 inches total (length plus width plus height) for each bag. The Breeze flight home allows 50 lb, so there's 10 extra pounds of room on the way back.
 - [ ] Download My Disney Experience (and join our party) and the Disney Cruise Line Navigator app
 - [ ] Dad: practice the scooter Saturday evening at the resort, especially backing up
 
