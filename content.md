@@ -277,6 +277,15 @@ With Multi Pass, book Buzz Lightyear, Jungle Cruise and Big Thunder as your firs
 
 Rides you can all do together: everything without a height limit, plus the Barnstormer with Aydin. Mad Tea Party, Dumbo and the Barnstormer usually have short lines in the afternoon, so they're easy ones to ride again and again.
 
+**How much walking to expect**
+
+Plan on about 7 to 8 miles for you, Yusif and Mom, or roughly 15,000 to 19,000 steps each. That's on the low side for Magic Kingdom, where a full day usually runs 15,000 to 25,000 steps, because this route makes one loop with no doubling back and we leave at 5:30pm. The miles add up from the walk to and from the buses (about 1 mile), the loop around the park (about 4.3 miles), ride lines (1 to 1.5 miles), and bathroom and snack stops.
+
+- Dad: about 3,000 to 5,000 steps, since the scooter covers the distance.
+- Sami: very roughly 9,000 to 14,000 steps if he walks about half the day. The double stroller is there when he's tired.
+- Aydin: mostly riding in the stroller.
+- Wear broken-in sneakers, and treat the 2:20pm PhilharMagic stop as the real rest break. A room close to a Riverside bus stop trims the walk at both ends of the day.
+
 ### What to pack for the park {#park-packing}
 
 Outside food and drinks are allowed. Skip glass and loose ice.
