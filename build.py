@@ -8,7 +8,7 @@ import re
 import markdown
 
 content = open("content.md", encoding="utf-8").read()
-html = markdown.markdown(content, extensions=["tables", "attr_list", "sane_lists"])
+html = markdown.markdown(content, extensions=["tables", "attr_list", "sane_lists", "md_in_html"])
 
 # checklists: "[ ]" and "[x]" at the start of a list item
 html = re.sub(r"<li>\s*(<p>)?\[ \]\s*", lambda m: '<li class="task">' + (m.group(1) or ""), html)

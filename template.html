@@ -39,7 +39,7 @@ body{margin:0;background:var(--page);color:var(--ink);font-family:"Atkinson Hype
 a{color:var(--holly);text-underline-offset:3px;text-decoration-thickness:1.5px}
 a:focus-visible,button:focus-visible{outline:3px solid var(--brass);outline-offset:3px;border-radius:4px}
 h1,h2,h3{font-family:"Bricolage Grotesque",system-ui,sans-serif;line-height:1.15;color:var(--harbor);letter-spacing:-.01em}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) h2,:root:not([data-theme="light"]) h3{color:#F3F6FB}}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) h2,:root:not([data-theme="light"]) h3,:root:not([data-theme="light"]) h4{color:#F3F6FB}:root:not([data-theme="light"]) .content h2.part{color:var(--holly)}}
 
 /* hero */
 .hero{background:var(--harbor);color:#fff;position:relative;overflow:hidden;padding:32px 16px 0}
@@ -74,7 +74,9 @@ main{max-width:760px;margin:0 auto;padding:0 16px 96px}
 .today p{margin:.3em 0}
 .today .small{color:var(--muted);font-size:.95rem}
 .content h2{font-size:clamp(1.55rem,5vw,1.95rem);margin:2.4em 0 .5em;padding-top:.2em;scroll-margin-top:12px}
-.content h3{font-size:1.25rem;margin:1.8em 0 .4em;scroll-margin-top:12px}
+.content h2.part{font-size:clamp(2rem,7vw,2.6rem);color:var(--holly);margin:2.6em 0 .2em;padding-top:.5em;border-top:4px solid var(--brass)}
+.content h3{font-size:clamp(1.4rem,4.6vw,1.7rem);margin:2em 0 .5em;scroll-margin-top:12px}
+.content h4{font-family:"Bricolage Grotesque",system-ui,sans-serif;font-size:1.2rem;line-height:1.2;color:var(--harbor);margin:1.7em 0 .4em;scroll-margin-top:12px}
 .content p,.content li{max-width:68ch}
 .content ul,.content ol{padding-left:1.3em}
 .content li{margin:.35em 0}
@@ -82,8 +84,10 @@ main{max-width:760px;margin:0 auto;padding:0 16px 96px}
 .to-top{font-size:.95rem;margin:1.6em 0 0}
 .to-top a{color:var(--muted)}
 .to-top a::before{content:"\2191  "}
-#jump-to + p + ul{background:var(--paper);border-radius:10px;box-shadow:var(--shadow);padding:14px 18px 14px 34px}
-#jump-to + p + ul li{margin:.55em 0}
+.jump{background:var(--paper);border-radius:10px;box-shadow:var(--shadow);padding:6px 18px 12px}
+.jump p{margin:1em 0 .2em;font-family:"Bricolage Grotesque",system-ui,sans-serif;color:var(--holly);font-size:1.1rem}
+.jump ul{margin:0;padding-left:1.2em}
+.jump li{margin:.45em 0}
 
 /* checklists */
 li.task{list-style:none;position:relative;margin-left:-1.3em;padding-left:2em}

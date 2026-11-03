@@ -2,31 +2,51 @@ Everything for Nov 7 to 13 is below. Mom and Dad, your flights, documents and pa
 
 ## Jump to {#jump-to}
 
-Mom and Dad, start with [For Mom and Dad](#for-mom-and-dad). Yusif, start with [For Yusif](#for-yusif). Tap any line below to go straight there, and every section ends with a link back to this list.
+Everything we all need comes first, then a section for each of us. Tap any line to go straight there.
+
+<div class="jump" markdown="1">
+
+**For everyone**
 
 - [Trip at a glance](#trip-at-a-glance)
 - [Flights: times, seats and check-in](#flights) and [bags by flight](#bags-by-flight)
-- [First-visit touches](#birthday-touches)
 - [Weather by day](#weather)
-- [To do this week](#to-do)
 - [Saturday: arrival and pool time](#saturday)
 - [Magic Kingdom, Sunday Nov 8](#magic-kingdom): [stroller and scooter](#stroller-and-scooter), [Lightning Lane](#lightning-lane), [Rider Switch](#rider-switch), [who can ride what](#who-can-ride-what), [plan for the day](#plan-for-the-day)
 - [Monday: boarding the Disney Wish](#monday-boarding)
-- [Island food: Castaway Cay and Lookout Cay](#island-food)
-- [Eating well on the trip](#eating-well)
-- Packing lists: [Erin](#erin-packing), [Sami](#sami-packing) (plus [kids club sign-up](#kids-clubs)), [Aydin](#aydin-packing), [shared family bag](#shared-family-bag), [Yusif](#for-yusif), [Mom and Dad](#for-mom-and-dad)
-- [Dad's cabin checklist: both staterooms, in order](#dads-cabin-checklist)
+- [Island food: Castaway Cay and Lookout Cay](#island-food) and [free snacks](#free-snacks)
 - [Around the ship: what reviewers complain about](#around-the-ship)
+- [First-visit touches](#birthday-touches)
 - [Ship rules: what not to pack](#ship-rules)
-- [Sources](#sources)
 
-## Trip at a glance {#trip-at-a-glance}
+**Erin**
+
+- [Erin's to-do list](#to-do)
+- [Eating well on the trip](#eating-well)
+- Packing: [Erin](#erin-packing), [Sami](#sami-packing) (plus [kids club sign-up](#kids-clubs)), [Aydin](#aydin-packing), [shared family bag and carry-ons](#shared-family-bag)
+
+**Yusif**
+
+- [Yusif's to-dos, documents and packing](#for-yusif)
+
+**Mom and Dad**
+
+- [Flights, the Navigator app and packing](#for-mom-and-dad)
+- [Dad's cabin checklist: both staterooms, in order](#dads-cabin-checklist)
+
+</div>
+
+[Sources](#sources)
+
+## For everyone {#part-everyone .part}
+
+### Trip at a glance {#trip-at-a-glance}
 
 Seven days in three places: two nights at Port Orleans Riverside, Magic Kingdom on Sunday, then the 4-night Very Merrytime Bahamian cruise on the Disney Wish, home Friday afternoon.
 
 | Day | Where | What's happening |
 | --- | --- | --- |
-| Sat Nov 7 | Raleigh to Orlando | Southwest WN3618 leaves RDU at 11:10am and lands at MCO at 1:00pm, with Aydin in his own seat. Mom and Dad land at 1:23pm on Frontier F9 2507. Grayson Towncar meets everyone in baggage claim at 1:23pm. Resort by about 2:45 to 3pm, then pool time, dinner and an early night. |
+| Sat Nov 7 | Raleigh to Orlando | Southwest WN3618 leaves RDU at 11:10am and lands at MCO at 1:00pm, with Aydin in his own seat. Mom and Dad land at 1:23pm on Frontier F9 2507. Grayson Towncar meets everyone in baggage claim at 1:23pm. Resort by about 2:45 to 3pm, then pool time, maybe a visit from Uncle Warren, dinner and an early night. |
 | Sun Nov 8 | Magic Kingdom | Early entry at 7:30am, park open 8am to 6pm. First night of Mickey's Very Merry Christmas Party, so day guests leave at 6pm. |
 | Mon Nov 9 | Port Canaveral | Grayson Towncar picks up at Port Orleans Riverside at about 12:30pm (Emiline is moving it from 10:30am). Port arrival time is 1:45pm. |
 | Tue Nov 10 | Castaway Cay | Docked 9am to 5pm. Glass Bottom Boat at 9:45am. |
@@ -40,11 +60,11 @@ Both cruise reservations are checked in. Grayson Towncar handles all three rides
 [Back to the list of sections](#jump-to)
 {: .to-top }
 
-## Flights: times, seats and check-in {#flights}
+### Flights: times, seats and check-in {#flights}
 
 All five flights were booked through Flight Network, so its chat and the My Bookings page on flightnetwork.com handle any changes. Confirmation codes and ticket numbers are left off this page on purpose, since anyone with the link can see it. Erin has them. Gates aren't posted until the day of travel, so they'll show up here by about 7:45am each travel morning. Check the airline app before you leave for the airport too, since gates and times can change.
 
-### Sat Nov 7: Erin, Yusif, Sami and Aydin {#flight-southwest}
+#### Sat Nov 7: Erin, Yusif, Sami and Aydin {#flight-southwest}
 
 **Southwest WN3618.** Leaves Raleigh (RDU) at 11:10am and lands in Orlando (MCO) at 1:00pm.
 
@@ -53,7 +73,7 @@ All five flights were booked through Flight Network, so its chat and the My Book
 - Gate: <span class="gate" data-flight="southwest">posted that morning</span>
 - Bags: a personal item and a carry-on each, plus the 2 checked bags you're adding.
 
-### Sat Nov 7: Mom and Dad {#flight-frontier}
+#### Sat Nov 7: Mom and Dad {#flight-frontier}
 
 **Frontier F9 2507.** Leaves Philadelphia (PHL) at 10:37am and lands in Orlando (MCO) at 1:23pm.
 
@@ -65,7 +85,7 @@ All five flights were booked through Flight Network, so its chat and the My Book
 
 Landing in Orlando: Grayson Towncar meets all six of us in baggage claim at 1:23pm.
 
-### Fri Nov 13: all six of us {#flight-breeze}
+#### Fri Nov 13: all six of us {#flight-breeze}
 
 **Breeze MX1611.** Leaves Orlando (MCO) at 1:42pm and lands in Raleigh (RDU) at 3:42pm.
 
@@ -76,7 +96,7 @@ Landing in Orlando: Grayson Towncar meets all six of us in baggage claim at 1:23
 - Gate: <span class="gate" data-flight="breeze">posted that morning</span>
 - Bags: a 50 lb checked bag each for Erin, Yusif, Mom and Dad, Erin's carry-on, and personal items for Erin, Yusif, Mom, Dad and Sami.
 
-### Sat Nov 14: Mom and Dad {#flight-american}
+#### Sat Nov 14: Mom and Dad {#flight-american}
 
 **American Airlines, Raleigh (RDU) to Philadelphia (PHL).** Leaves at 3:58pm and lands at 5:33pm.
 
@@ -85,7 +105,7 @@ Landing in Orlando: Grayson Towncar meets all six of us in baggage claim at 1:23
 - Gate: <span class="gate" data-flight="american">posted that morning</span>
 - Bags: a personal item and a carry-on each, plus a checked bag each paid at the American counter at RDU, about $55 a bag. Checked bags can be up to 50 lb and 62 inches total, the same as Breeze.
 
-### Bags by flight {#bags-by-flight}
+#### Bags by flight {#bags-by-flight}
 
 The goal: Mom and Dad each get a checked bag and a personal item on every flight, and our family gets 2 checked bags, 1 carry-on and 4 personal items on every flight. Getting there means adding 4 checked bags in all, 2 on the Southwest flight down and 1 each for Mom and Dad on Nov 14, plus Aydin's Southwest seat.
 
@@ -102,51 +122,16 @@ Splitting the 2 Southwest bags between you and Yusif costs $90. Putting both on 
 [Back to the list of sections](#jump-to)
 {: .to-top }
 
-## First-visit touches {#birthday-touches}
-
-A few easy ways to make the boys' first Disney trip and our first cruise feel special:
-
-- Pick up free 1st Visit buttons for Sami and Aydin, and I'm Celebrating buttons for the rest of us, at City Hall on Main Street or most shops in Magic Kingdom. Sami can wear a birthday button too, since he just turned 5. Cast members and characters notice the buttons and make a fuss all day.
-- Tell your serving team on the ship the first night that it's our first Disney cruise and the boys' first Disney trip, so they can celebrate at the table.
-- Very Merrytime sailings are decorated for the holidays, so the holiday outfits and matching pajamas double as first-cruise photos.
-
-[Back to the list of sections](#jump-to)
-{: .to-top }
-
-## Weather by day {#weather}
+### Weather by day {#weather}
 
 <div id="weather-live" class="weather-live"><p>Loading the latest forecast.</p></div>
 
 [Back to the list of sections](#jump-to)
 {: .to-top }
 
-## To do this week {#to-do}
+### Saturday: arrival and pool time {#saturday}
 
-The two most time-sensitive items are Sami's and Dad's park tickets and the stroller and scooter rentals, since everything else on Sunday depends on them.
-
-- [ ] Buy Magic Kingdom 1-day tickets for Sami and Dad (discount options are in the Magic Kingdom section). Link both in My Disney Experience. Aydin is free.
-- [ ] Yusif: ask his friend which kind of passes these are (details in the Magic Kingdom section).
-- [ ] Rent Dad's scooter (ScooterBug is sold out): call Buena Vista Scooters, Walker Mobility or Apple Scooter for delivery to Port Orleans Riverside Sat Nov 7 and pickup Mon Nov 9. Numbers are in the Magic Kingdom section. Plan on Disney's double stroller at the park entrance.
-- [ ] Confirm Emiline moved Monday's car from 10:30am to about 12:30pm.
-- [ ] Aydin's Southwest seat: a Flight Network supervisor is adding it and will email you. If there's no email by Wednesday, call Southwest at 1-800-435-9792 and ask them to sell him his own seat on WN3618 next to you. If the 2 checked bags (one under you, one under Yusif) aren't added before then, pay for them when you check in on the Southwest app Friday at 11:10am.
-- [ ] Breeze home: nothing to buy. Ask whether Aydin can bring a diaper bag as a lap child; if not, his things go in the family's bags.
-- [ ] Mom and Dad's Nov 14 bags: they'll pay for a checked bag each at the American counter at RDU, about $55 a bag, up to 50 lb and 62 inches.
-- [ ] Register Sami for the kids club by Friday on the Disney Cruise Line website, or at the open house Monday after you board (steps in Sami's section).
-- [ ] Decide on Lightning Lane Multi Pass for Nov 8. You can also decide that morning once you see the wait times.
-- [x] Disney Cruise online check-in for both reservations
-- [x] Car seats: Grayson Towncar has two on every ride
-- [x] Flight home: all six of us on Breeze MX1611
-- [x] Keep or cancel the Glass Bottom Boat (Tue 9:45am)
-- [ ] Check whether the 5:45pm dining time came through; if not, ask again once you're on board.
-- [x] Order from Amazon: an autograph book with a thick pen, and ponchos for 6 with kid sizes for the boys.
-- [ ] Download My Disney Experience and the Navigator app on every adult's phone.
-
-[Back to the list of sections](#jump-to)
-{: .to-top }
-
-## Saturday: arrival and pool time {#saturday}
-
-We should reach the resort around 2:45 to 3pm, which leaves the rest of the afternoon for the pool, then an easy dinner and an early night before Magic Kingdom.
+We should reach the resort around 2:45 to 3pm, which leaves the rest of the afternoon for the pool, a visit from Uncle Warren if he can come, then an easy dinner and an early night before Magic Kingdom.
 
 | Time | What's happening |
 | --- | --- |
@@ -156,7 +141,8 @@ We should reach the resort around 2:45 to 3pm, which leaves the rest of the afte
 | About 2:30 to 3:00pm | Arrive at Port Orleans Riverside and meet the scooter delivery if it's scheduled for this afternoon. Check-in is 3pm, and the app texts you when the rooms are ready. |
 | 3:15 to 4:30pm | Pool time at Ol' Man Island, Riverside's main pool. Swimsuits ride in the carry-ons so the boys can swim even if rooms aren't ready yet. |
 | 4:30pm | Back to the rooms to rinse off and change. |
-| About 5:30pm | Dinner together at Riverside Mill, the resort's food court. |
+| About 5:00pm | Uncle Warren, Dad's brother, meets us at the resort if he can make it (Erin is asking him). Meet at the pool or in the lobby. |
+| About 5:30pm | Dinner together at Riverside Mill, the resort's food court, with Warren if he can stay. |
 | By 8:00pm | Early night. The Magic Kingdom bus is around 7am. |
 
 Your picks at Riverside Mill are in the food section.
@@ -164,11 +150,11 @@ Your picks at Riverside Mill are in the food section.
 [Back to the list of sections](#jump-to)
 {: .to-top }
 
-## Magic Kingdom, Sunday Nov 8 {#magic-kingdom}
+### Magic Kingdom, Sunday Nov 8 {#magic-kingdom}
 
 Your 8am to 6pm plan matches the park's hours exactly. Resort guests can get in at 7:30am, and the park closes to day guests at 6pm for the first night of Mickey's Very Merry Christmas Party.
 
-### Tickets {#tickets}
+#### Tickets {#tickets}
 
 - Sami needs a child ticket (ages 3 to 9) and Dad needs an adult ticket (10 and up); Disney has no senior price. Aydin is free under 3.
 - November 1-day Magic Kingdom tickets have been running about $165 to $200 per adult before 6.5% tax, and a child ticket is $5 less.
@@ -180,7 +166,7 @@ Your 8am to 6pm plan matches the park's hours exactly. Resort guests can get in 
 - Skip eBay, Craigslist and resold tickets. Disney tickets can't be transferred and are tied to a fingerprint once used.
 - Link both tickets in My Disney Experience once you have them.
 
-### Does Yusif's friend need to be there? {#yusifs-friend}
+#### Does Yusif's friend need to be there? {#yusifs-friend}
 
 It depends on which kind of pass he's giving you, so Yusif should ask.
 
@@ -188,7 +174,7 @@ It depends on which kind of pass he's giving you, so Yusif should ask.
 - **Complimentary one-day tickets:** cast members get a small number of these each year. They work like regular tickets, so he wouldn't need to come.
 - If it's the Main Entrance Pass, agree on a meeting time. Early entry at 7:30am is a resort-guest perk, so ask whether his passes can use it; if not, plan on 8am.
 
-### Stroller and scooter {#stroller-and-scooter}
+#### Stroller and scooter {#stroller-and-scooter}
 
 ScooterBug is sold out for your dates, so the plan is a delivered scooter for Dad from another company and Disney's own double stroller inside the park.
 
@@ -209,7 +195,7 @@ Backup: Disney rents scooters at the Magic Kingdom entrance for $65 a day plus a
 
 Dad should practice backing up Saturday evening, since buses load scooters by ramp, and take the key out every time he parks it.
 
-### Lightning Lane: what it is and what it costs {#lightning-lane}
+#### Lightning Lane: what it is and what it costs {#lightning-lane}
 
 Lightning Lane is a paid add-on that lets you skip the regular line by using a separate, much shorter entrance at a time you reserve. You don't have to decide now: Multi Pass can usually still be bought the morning of, if it hasn't sold out.
 
@@ -227,7 +213,7 @@ Rides for Sami, as a rough estimate: about 14 to 16 without Lightning Lane, and 
 
 My take: Sami loves rides and re-rides, so Multi Pass for the three of you is the best value. If the app shows short waits that morning, skip it.
 
-### Rider Switch: how it works {#rider-switch}
+#### Rider Switch: how it works {#rider-switch}
 
 There's nothing to book in the app. You set it up at the ride when Aydin is too small for it.
 
@@ -236,7 +222,7 @@ There's nothing to book in the app. You set it up at the ride when Aydin is too 
 3. The cast member scans the tickets of the waiting group. Ask them to include Sami so he can ride again.
 4. When the first group gets off, the waiting adult and Sami go to the return entrance the cast member points to and board without the regular wait. Up to two people can ride on the return.
 
-### Who can ride what {#who-can-ride-what}
+#### Who can ride what {#who-can-ride-what}
 
 Sami (42") can ride every coaster at Magic Kingdom except Space Mountain and TRON, and Aydin (35") just makes the Barnstormer. The park's only log flume, Tiana's Bayou Adventure, is closed Nov 2 to Dec 18, so there's no flume this trip.
 
@@ -252,7 +238,7 @@ Sami (42") can ride every coaster at Magic Kingdom except Space Mountain and TRO
 
 No height limit, so everyone rides: Peter Pan's Flight, Dumbo, Winnie the Pooh, Under the Sea, Mad Tea Party, the Carrousel, it's a small world, Pirates of the Caribbean, Jungle Cruise, Magic Carpets of Aladdin, Haunted Mansion, Buzz Lightyear's Space Ranger Spin and the PeopleMover. Carousel of Progress is closed until spring 2027.
 
-### Plan for the day {#plan-for-the-day}
+#### Plan for the day {#plan-for-the-day}
 
 This route makes one clockwise loop, so there's no doubling back: Fantasyland, Storybook Circus, Tomorrowland, Adventureland, Frontierland, Liberty Square, back into Fantasyland, then out Main Street. The morning works without Lightning Lane thanks to early entry. The last column shows where Multi Pass saves the most time.
 
@@ -286,7 +272,7 @@ Plan on about 7 to 8 miles for you, Yusif and Mom, or roughly 15,000 to 19,000 s
 - Aydin: mostly riding in the stroller.
 - Wear broken-in sneakers, and treat the 2:20pm PhilharMagic stop as the real rest break. A room close to a Riverside bus stop trims the walk at both ends of the day.
 
-### What to pack for the park {#park-packing}
+#### What to pack for the park {#park-packing}
 
 Outside food and drinks are allowed. Skip glass and loose ice.
 
@@ -306,7 +292,7 @@ Outside food and drinks are allowed. Skip glass and loose ice.
 [Back to the list of sections](#jump-to)
 {: .to-top }
 
-## Monday: boarding the Disney Wish {#monday-boarding}
+### Monday: boarding the Disney Wish {#monday-boarding}
 
 Emiline is moving the Grayson pickup from 10:30am to about 12:30pm. The drive is about an hour, so that gets you to the terminal right around your 1:45pm port arrival time. Before the car comes, eat lunch at Riverside Mill around 11:30am and hand Dad's scooter back to the rental company.
 
@@ -320,11 +306,11 @@ What to expect at the terminal:
 [Back to the list of sections](#jump-to)
 {: .to-top }
 
-## Island food: Castaway Cay and Lookout Cay {#island-food}
+### Island food: Castaway Cay and Lookout Cay {#island-food}
 
 Lunch on both islands is included in the cruise fare, served buffet style, with plenty the boys will eat. Water, soda and lemonade at the drink stations are free; specialty drinks and cocktails cost extra.
 
-### Castaway Cay, Tuesday {#castaway-cay}
+#### Castaway Cay, Tuesday {#castaway-cay}
 
 - **Where:** Cookie's BBQ and Cookie's Too BBQ, both on the family beach, same menu. Lunch usually runs about 11:30am to 2pm.
 - **What:** burgers, hot dogs, BBQ ribs, grilled and rotisserie chicken, Cajun mahi mahi, corn on the cob, salads, fruit, flatbread and big chocolate chip cookies. Kid options include chicken nuggets and mac and cheese, and soft-serve machines sit right outside.
@@ -332,13 +318,13 @@ Lunch on both islands is included in the cruise fare, served buffet style, with 
 - **Timing:** the Glass Bottom Boat at 9:45am runs about an hour, so you'll be back as lunch opens.
 - Scuttle's Cove, the island kids club, takes ages 3 to 12 from about 9am to 3:30pm. No booking needed; the steps are in Sami's section.
 
-### Lookout Cay, Wednesday {#lookout-cay}
+#### Lookout Cay, Wednesday {#lookout-cay}
 
 - **Where:** True-True BBQ and True-True Too BBQ serve everyone. Serenity Bay BBQ is adults only here too.
 - **What:** a Bahamian-inspired menu next to the familiar stuff: island-spiced rotisserie chicken, lime-marinated grilled snapper, pigeon peas and rice with marinated chicken, BBQ ribs, cheeseburgers, salads and sides.
 - Free fountain drinks are set up around the island. Sandsational Smoothies, Bahama Brew and the bars charge extra.
 
-### Both days {#both-island-days}
+#### Both days {#both-island-days}
 
 - Eat breakfast on the ship before going ashore, and carry water bottles and snacks for the boys.
 - The ship stays open all day, so Marceline Market on Deck 11 is there if anyone needs a break from the sun.
@@ -347,7 +333,84 @@ Lunch on both islands is included in the cruise fare, served buffet style, with 
 [Back to the list of sections](#jump-to)
 {: .to-top }
 
-## Eating well on the trip {#eating-well}
+### Free snacks on the ship and islands {#free-snacks}
+
+You don't need to pack food for the ship. Free food runs most of the day, so bring only a small stash for the times when food is hard to reach.
+
+- **On the ship:** Mickey and Friends Festival of Foods on Deck 11 is open roughly 10:45am to 6pm with pizza, burgers, tacos, BBQ and soft-serve, all included in your fare. Goofy's Grill stays open into the evening and the pizza window reopens late. Fountain soda, water, coffee and tea are free at drink stations, and room service runs 24 hours and is mostly free.
+- **On the islands:** lunch runs about 11:30am to 2pm, the soft-serve machines sit next to Cookie's on Castaway Cay, and drink stations are free all day. After lunch closes there's little to eat, so carry snacks if you'll be ashore late.
+- **Where your own snacks help:** the flights, Saturday afternoon at the pool, the park day, the embarkation line on Monday, island afternoons, and bedtime in the stateroom.
+
+[Back to the list of sections](#jump-to)
+{: .to-top }
+
+### Around the ship: what reviewers complain about {#around-the-ship}
+
+The Wish carries a lot of people, and most complaints in reviews are about crowds in the busiest spots. Here's what comes up most and how we'll get ahead of it.
+
+- **The first day feels crowded and confusing.** The hallways near the Grand Hall and Marceline Market back up, and the layout takes a day to learn. Reviewers say it eases by day three. After the safety drill on Monday, take a short walk around the ship with the deck maps in the Navigator app.
+- **Elevators are slow and packed before dinner and shows.** Only two of the eight elevators go above Deck 11. From Deck 7, dinner and the theater are a few flights down by stairs. When Dad or the stroller needs an elevator, leave 10 extra minutes.
+- **AquaMouse lines can hit an hour on sea days.** Sami just makes the 42-inch minimum and rides with an adult. Lines are shortest on port days, first thing in the morning, at meal times and in the early evening. Head back from Castaway Cay a little early on Tuesday for a ride, since Thursday at sea will be the busiest.
+- **The pools are small and busy, and the levels make it hard to watch kids and grab food at once.** Go first thing in the morning or on the island days, and have one adult stay in the water with the boys and another get the food. Aydin's swim diaper means the Toy Story Splash Zone only.
+- **Shows and the small movie theaters fill up.** Get to the Walt Disney Theatre 20 to 30 minutes early. Disney Seas the Adventure is the shortest evening show at 45 minutes, which makes it a good first try for the boys.
+- **Dining rooms are tight, and the shows can upstage the meal.** Tables sit close together, and at Arendelle the servers step away during the performances, so food can show up cold. If something arrives cold, ask for a new plate.
+- **Breakfast at Marceline Market is a crush.** Claim a table first, then get food. At sit-down breakfast, ask your server for the Mickey churro waffles. They're free, but only on request.
+- **The gift shop is small and doesn't restock.** Mickey's Mainsail gets busy around dinner, and items don't come back until the next sailing, so buy the Very Merrytime and first-trip souvenirs you want early in the trip.
+- **Lookout Cay means a long pier, heat and less shade.** Wear walking shoes, claim a shaded spot soon after you arrive, eat lunch before the noon rush, and bring sunscreen, hats and refillable water bottles.
+
+[Back to the list of sections](#jump-to)
+{: .to-top }
+
+### First-visit touches {#birthday-touches}
+
+A few easy ways to make the boys' first Disney trip and our first cruise feel special:
+
+- Pick up free 1st Visit buttons for Sami and Aydin, and I'm Celebrating buttons for the rest of us, at City Hall on Main Street or most shops in Magic Kingdom. Sami can wear a birthday button too, since he just turned 5. Cast members and characters notice the buttons and make a fuss all day.
+- Tell your serving team on the ship the first night that it's our first Disney cruise and the boys' first Disney trip, so they can celebrate at the table.
+- Very Merrytime sailings are decorated for the holidays, so the holiday outfits and matching pajamas double as first-cruise photos.
+
+[Back to the list of sections](#jump-to)
+{: .to-top }
+
+### Ship rules: what not to pack {#ship-rules}
+
+Disney Cruise Line screens every bag at the port and holds anything on its prohibited list, which can also delay your luggage.
+
+- Power strips, extension cords, multi-plugs and surge protectors (a plain USB hub is fine)
+- Irons and clothing steamers (the guest laundry rooms have irons)
+- Heating pads and hot plates
+- Any wine or beer has to be unopened and in a carry-on. Disney's site currently lists one bottle of wine or six beers per adult 21 and over, and no liquor.
+- Snorkels stay out of the ship pools. Goggles and swim masks that cover the eyes and nose are fine in the pools; masks come off for the water slides.
+
+[Back to the list of sections](#jump-to)
+{: .to-top }
+
+## Erin {#part-erin .part}
+
+### Erin's to-do list {#to-do}
+
+The two most time-sensitive items are Sami's and Dad's park tickets and the stroller and scooter rentals, since everything else on Sunday depends on them.
+
+- [ ] Buy Magic Kingdom 1-day tickets for Sami and Dad (discount options are in the Magic Kingdom section). Link both in My Disney Experience. Aydin is free.
+- [ ] Rent Dad's scooter (ScooterBug is sold out): call Buena Vista Scooters, Walker Mobility or Apple Scooter for delivery to Port Orleans Riverside Sat Nov 7 and pickup Mon Nov 9. Numbers are in the Magic Kingdom section. Plan on Disney's double stroller at the park entrance.
+- [ ] Confirm Emiline moved Monday's car from 10:30am to about 12:30pm.
+- [ ] Aydin's Southwest seat: a Flight Network supervisor is adding it and will email you. If there's no email by Wednesday, call Southwest at 1-800-435-9792 and ask them to sell him his own seat on WN3618 next to you. If the 2 checked bags (one under you, one under Yusif) aren't added before then, pay for them when you check in on the Southwest app Friday at 11:10am.
+- [ ] Breeze home: nothing to buy. Ask whether Aydin can bring a diaper bag as a lap child; if not, his things go in the family's bags.
+- [ ] Mom and Dad's Nov 14 bags: they'll pay for a checked bag each at the American counter at RDU, about $55 a bag, up to 50 lb and 62 inches.
+- [ ] Register Sami for the kids club by Friday on the Disney Cruise Line website, or at the open house Monday after you board (steps in Sami's section).
+- [ ] Decide on Lightning Lane Multi Pass for Nov 8. You can also decide that morning once you see the wait times.
+- [x] Disney Cruise online check-in for both reservations
+- [x] Car seats: Grayson Towncar has two on every ride
+- [x] Flight home: all six of us on Breeze MX1611
+- [x] Keep or cancel the Glass Bottom Boat (Tue 9:45am)
+- [ ] Check whether the 5:45pm dining time came through; if not, ask again once you're on board.
+- [x] Order from Amazon: an autograph book with a thick pen, and ponchos for 6 with kid sizes for the boys.
+- [ ] Download My Disney Experience and the Navigator app on every adult's phone.
+
+[Back to the list of sections](#jump-to)
+{: .to-top }
+
+### Eating well on the trip {#eating-well}
 
 Your plan in one line: whole ingredients, cooked simply. No added sugar, no batter or breading, no cream or cheese sauces (cheese only if it's melted mozzarella), no shellfish and no alcohol. Butter, olive oil, whole grains, potatoes, rice, beans and fresh fruit are all in.
 
@@ -367,18 +430,10 @@ How to order: tell your server or cashier you're eating whole foods with no adde
 | Lookout Cay, True-True BBQ | Spiced rotisserie chicken with black bean salad, lime-marinated grilled snapper with extra vegetables, pigeon peas and rice with chicken | Hold the fried okra and yucca fries. Skip the ribs, smoothies and Bahama Brew. |
 | Room service on the ship | Fruit plate, garden salad, plain grilled chicken | Dressing on the side. |
 
-### Free snacks on the ship and islands {#free-snacks}
-
-You don't need to pack food for the ship. Free food runs most of the day, so bring only a small stash for the times when food is hard to reach.
-
-- **On the ship:** Mickey and Friends Festival of Foods on Deck 11 is open roughly 10:45am to 6pm with pizza, burgers, tacos, BBQ and soft-serve, all included in your fare. Goofy's Grill stays open into the evening and the pizza window reopens late. Fountain soda, water, coffee and tea are free at drink stations, and room service runs 24 hours and is mostly free.
-- **On the islands:** lunch runs about 11:30am to 2pm, the soft-serve machines sit next to Cookie's on Castaway Cay, and drink stations are free all day. After lunch closes there's little to eat, so carry snacks if you'll be ashore late.
-- **Where your own snacks help:** the flights, Saturday afternoon at the pool, the park day, the embarkation line on Monday, island afternoons, and bedtime in the stateroom.
-
 [Back to the list of sections](#jump-to)
 {: .to-top }
 
-## Erin's packing list {#erin-packing}
+### Erin's packing list {#erin-packing}
 
 Pack for warm days in the high 70s to mid 80s, cool Orlando mornings around 60°F, cold dining rooms, and a chilly Raleigh on both ends.
 
@@ -422,7 +477,7 @@ Pack for warm days in the high 70s to mid 80s, cool Orlando mornings around 60°
 [Back to the list of sections](#jump-to)
 {: .to-top }
 
-## Sami's packing list {#sami-packing}
+### Sami's packing list {#sami-packing}
 
 Sami needs a week of play clothes plus spares, swim gear for two island days and the ship pools, and enough to keep him busy on the plane.
 
@@ -440,7 +495,7 @@ Sami needs a week of play clothes plus spares, swim gear for two island days and
 
 His passport goes in the family document folder. Kids club sign-up steps are just below.
 
-### Kids clubs: how to sign Sami up {#kids-clubs}
+#### Kids clubs: how to sign Sami up {#kids-clubs}
 
 The Oceaneer Club is free for potty-trained kids ages 3 to 10. Other Disney ships split it into an Oceaneer Club and an Oceaneer Lab. The Wish has one big club with themed rooms: Marvel Super Hero Academy, Star Wars: Cargo Bay, Fairytale Hall, Mickey and Minnie's Captain's Deck, and the Walt Disney Imagineering Lab, where kids design their own virtual roller coaster. Scuttle's Cove on Castaway Cay is free too.
 
@@ -455,7 +510,7 @@ Aydin is too young for the clubs. The it's a small world nursery takes ages 6 mo
 [Back to the list of sections](#jump-to)
 {: .to-top }
 
-## Aydin's packing list {#aydin-packing}
+### Aydin's packing list {#aydin-packing}
 
 Aydin has his own seat on Saturday's Southwest flight and rides on a lap on Friday's flight home. Grayson Towncar supplies car seats, so his list is mostly diapers, swim gear and comfort. On the ship, kids in swim diapers can only use the Toy Story Splash Zone on Deck 12, not the regular pools.
 
@@ -478,18 +533,9 @@ Optional: the ship's it's a small world nursery takes ages 6 months to 3 years f
 [Back to the list of sections](#jump-to)
 {: .to-top }
 
-## Shared family bag and embarkation carry-on {#shared-family-bag}
+### Shared family bag and carry-ons {#shared-family-bag}
 
-One document folder and one embarkation-day carry-on cover the things that can't be replaced or that you'll need before your luggage reaches the stateroom on Monday evening.
-
-**Document folder**
-
-- [ ] Photo ID for every adult; passports or birth certificates for everyone
-- [ ] Both boys' passports for the cruise
-- [ ] Cruise documents for both reservations (both checked in)
-- [ ] Grayson Towncar confirmations for all three rides
-- [ ] Magic Kingdom tickets showing in My Disney Experience
-- [ ] Travel insurance details, if you have it
+The embarkation-day carry-ons cover what we'll need before the luggage reaches the staterooms on Monday evening. Yusif has the document folder.
 
 **Shared gear**
 
@@ -515,16 +561,29 @@ One document folder and one embarkation-day carry-on cover the things that can't
 [Back to the list of sections](#jump-to)
 {: .to-top }
 
-## For Yusif {#for-yusif}
+## Yusif {#part-yusif .part}
 
-Yusif's most important job this week is locking down the three guest passes for Magic Kingdom.
+### Yusif's to-dos, documents and packing {#for-yusif}
+
+Yusif's most important jobs this week are locking down the three guest passes for Magic Kingdom, setting up Sunday's meet-up with his friend, and keeping the documents for the four of us.
 
 **This week**
 
 - [ ] Ask his friend which kind of passes these are: a Main Entrance Pass (he has to be at the gate when you go in) or complimentary one-day tickets (he doesn't)
 - [ ] If it's the Main Entrance Pass: is Nov 8 blocked out, does he need a park reservation, and what time will he meet you
 - [ ] Ask whether the passes can be linked in My Disney Experience, which Lightning Lane needs
+- [ ] Set up Sunday's meet-up with his friend: the time and spot at the Magic Kingdom entrance, and a number to text if plans change
+- [ ] Pull together the documents for the four of us (the document folder below) and carry them in his carry-on
 - [ ] Download My Disney Experience and the Disney Cruise Line Navigator app. The Navigator chat works on the ship's network without buying internet.
+
+**Document folder for the four of us**
+
+- [ ] Photo IDs for Erin and Yusif; passports or birth certificates for all four of us
+- [ ] Both boys' passports for the cruise
+- [ ] Cruise documents for our reservation (checked in). Mom and Dad carry their own.
+- [ ] Grayson Towncar confirmations for all three rides
+- [ ] Magic Kingdom tickets showing in My Disney Experience
+- [ ] Travel insurance details, if we have it
 
 **His packing**
 
@@ -545,7 +604,9 @@ Yusif's most important job this week is locking down the three guest passes for 
 [Back to the list of sections](#jump-to)
 {: .to-top }
 
-## For Mom and Dad {#for-mom-and-dad}
+## Mom and Dad {#part-mom-and-dad .part}
+
+### Flights, the Navigator app and packing {#for-mom-and-dad}
 
 Mom and Dad fly Frontier F9 2507 from Philadelphia at 10:37am Saturday, landing in Orlando at 1:23pm. They fly home with us on Breeze MX1611 to Raleigh on Friday at 1:42pm, then from Raleigh to Philadelphia on Saturday, Nov 14 at 3:58pm on American, landing at 5:33pm. Their cruise reservation is checked in.
 
@@ -594,11 +655,12 @@ This free app is the ship's daily schedule: show times, dining, character visits
 - Dad's scooter is just for Magic Kingdom day, Saturday through Monday morning. Trams run from the ship on both islands, so he can ride instead of walk.
 - The Glass Bottom Boat involves a 5-step ladder down into the boat.
 - The car service tip is already paid. Bring small bills for porters and housekeeping.
+- Erin has invited Uncle Warren to meet us at the resort Saturday afternoon, and she'll confirm once she hears back.
 
 [Back to the list of sections](#jump-to)
 {: .to-top }
 
-## Dad's cabin checklist: both staterooms, in order {#dads-cabin-checklist}
+### Dad's cabin checklist: both staterooms, in order {#dads-cabin-checklist}
 
 Dad, this one's yours. Those cruise videos you've been sending cover real things, and most of them come down to a few good habits. Disney ships rank near the top of the CDC's sanitation inspections, and the Wish scored 99 out of 100 on its latest one (86 is a passing score). So the plan is short: about 10 minutes per cabin on Monday afternoon, then a minute or two a day. You're in charge of both cabins. Do ours first, since the boys will want to explore.
 
@@ -620,36 +682,6 @@ Dad, this one's yours. Those cruise videos you've been sending cover real things
 16. **Every night: a one-minute wipe.** Remote, door handles, phone and faucets in both cabins.
 17. **If anyone gets a stomach bug: call the Health Center.** The CDC says to report symptoms to the ship's medical center and follow their advice. Keep that person in the cabin and away from the buffet, pools and kids club until the Health Center says it's OK.
 18. **Thursday night: bags out, carry-ons packed, final sweep.** Tagged bags go outside the door in the evening, usually between 8 and 10pm (the Navigator app has the exact time). Passports, Key to the World cards, medications, the CPAP and Friday's clothes stay in carry-ons. Friday morning, check the safe, drawers, under the beds and the bathroom in both cabins before we leave.
-
-[Back to the list of sections](#jump-to)
-{: .to-top }
-
-## Around the ship: what reviewers complain about {#around-the-ship}
-
-The Wish carries a lot of people, and most complaints in reviews are about crowds in the busiest spots. Here's what comes up most and how we'll get ahead of it.
-
-- **The first day feels crowded and confusing.** The hallways near the Grand Hall and Marceline Market back up, and the layout takes a day to learn. Reviewers say it eases by day three. After the safety drill on Monday, take a short walk around the ship with the deck maps in the Navigator app.
-- **Elevators are slow and packed before dinner and shows.** Only two of the eight elevators go above Deck 11. From Deck 7, dinner and the theater are a few flights down by stairs. When Dad or the stroller needs an elevator, leave 10 extra minutes.
-- **AquaMouse lines can hit an hour on sea days.** Sami just makes the 42-inch minimum and rides with an adult. Lines are shortest on port days, first thing in the morning, at meal times and in the early evening. Head back from Castaway Cay a little early on Tuesday for a ride, since Thursday at sea will be the busiest.
-- **The pools are small and busy, and the levels make it hard to watch kids and grab food at once.** Go first thing in the morning or on the island days, and have one adult stay in the water with the boys and another get the food. Aydin's swim diaper means the Toy Story Splash Zone only.
-- **Shows and the small movie theaters fill up.** Get to the Walt Disney Theatre 20 to 30 minutes early. Disney Seas the Adventure is the shortest evening show at 45 minutes, which makes it a good first try for the boys.
-- **Dining rooms are tight, and the shows can upstage the meal.** Tables sit close together, and at Arendelle the servers step away during the performances, so food can show up cold. If something arrives cold, ask for a new plate.
-- **Breakfast at Marceline Market is a crush.** Claim a table first, then get food. At sit-down breakfast, ask your server for the Mickey churro waffles. They're free, but only on request.
-- **The gift shop is small and doesn't restock.** Mickey's Mainsail gets busy around dinner, and items don't come back until the next sailing, so buy the Very Merrytime and first-trip souvenirs you want early in the trip.
-- **Lookout Cay means a long pier, heat and less shade.** Wear walking shoes, claim a shaded spot soon after you arrive, eat lunch before the noon rush, and bring sunscreen, hats and refillable water bottles.
-
-[Back to the list of sections](#jump-to)
-{: .to-top }
-
-## Ship rules: what not to pack {#ship-rules}
-
-Disney Cruise Line screens every bag at the port and holds anything on its prohibited list, which can also delay your luggage.
-
-- Power strips, extension cords, multi-plugs and surge protectors (a plain USB hub is fine)
-- Irons and clothing steamers (the guest laundry rooms have irons)
-- Heating pads and hot plates
-- Any wine or beer has to be unopened and in a carry-on. Disney's site currently lists one bottle of wine or six beers per adult 21 and over, and no liquor.
-- Snorkels stay out of the ship pools. Goggles and swim masks that cover the eyes and nose are fine in the pools; masks come off for the water slides.
 
 [Back to the list of sections](#jump-to)
 {: .to-top }
