@@ -542,6 +542,16 @@ Mom and Dad fly Frontier F9 2507 from Philadelphia at 10:37am Saturday, landing 
 
 Dad, your step-by-step plan for checking and settling both staterooms is in [Dad's cabin checklist](#dads-cabin-checklist).
 
+**The Disney Cruise Line Navigator app**
+
+This free app is the ship's daily schedule: show times, dining, character visits, deck maps, and free chat with the rest of us on board. Set it up at home this week.
+
+1. Download **Disney Cruise Line Navigator** from the App Store (iPhone) or Google Play (Android).
+2. Open it and sign in with your MyDisney account, which is the same email and password as My Disney Experience. If you don't have one yet, the app lets you create one for free.
+3. Go to My Reservations and add your cruise with the reservation number Erin sends you (it's also on your cruise documents). If it asks for a birthdate, use Mom's or Dad's. Do this by Friday, Nov 6, since a reservation can't be linked in the last two days before sailing.
+4. On the ship, turn on airplane mode, turn Wi-Fi back on, and join the free DCL-GUEST network. The Navigator app works on it at no charge. Email and web browsing cost extra.
+5. Check the app each morning for the day's schedule, and turn on notifications so you get the reminder before Monday's safety drill.
+
 **Before they leave**
 
 - [x] Checked bags paid on Frontier (flight down) and Breeze (flight home with us)
