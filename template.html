@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Our Disney Birthday Trip</title>
+<meta name="description" content="Mom's 70th and Sami's 5th: the family plan for Orlando, Magic Kingdom and the Disney Wish, Nov 7 to 13, 2026.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&display=swap" rel="stylesheet">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%2313294B'/%3E%3Cpath d='M16 6l2.6 6.4 6.9.5-5.3 4.4 1.7 6.7L16 20.3 10.1 24l1.7-6.7-5.3-4.4 6.9-.5z' fill='%23E2B24A'/%3E%3C/svg%3E">
+<style>
+:root{
+  --harbor:#13294B;      /* deep navy: hero, headings */
+  --harbor-2:#1D3A66;
+  --holly:#B3243A;       /* holiday red: links and accents */
+  --brass:#E2B24A;       /* gold: stars, today ring */
+  --evergreen:#1F6B4F;   /* done marks */
+  --ink:#1C2430;
+  --muted:#4E5A6B;
+  --page:#F3F7FA;        /* sea-mist page */
+  --paper:#FFFFFF;
+  --line:#D5DEE7;
+  --soft:#E7EEF4;
+  --shadow:0 1px 2px rgba(19,41,75,.08), 0 6px 18px rgba(19,41,75,.06);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --harbor:#0B1A33; --harbor-2:#16294A; --holly:#FF8A9A; --brass:#F0C766; --evergreen:#7FD3AE;
+    --ink:#E8EEF5; --muted:#AEBACB; --page:#0F1A2B; --paper:#16233A; --line:#2B3B57; --soft:#1C2C47;
+    --shadow:none;
+  }
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+@media (prefers-reduced-motion: reduce){html{scroll-behavior:auto}}
+body{margin:0;background:var(--page);color:var(--ink);font-family:"Atkinson Hyperlegible",system-ui,sans-serif;font-size:18px;line-height:1.6}
+a{color:var(--holly);text-underline-offset:3px;text-decoration-thickness:1.5px}
+a:focus-visible,button:focus-visible{outline:3px solid var(--brass);outline-offset:3px;border-radius:4px}
+h1,h2,h3{font-family:"Bricolage Grotesque",system-ui,sans-serif;line-height:1.15;color:var(--harbor);letter-spacing:-.01em}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) h2,:root:not([data-theme="light"]) h3{color:#F3F6FB}}
+
+/* hero */
+.hero{background:var(--harbor);color:#fff;position:relative;overflow:hidden;padding:32px 16px 0}
+.hero-inner{max-width:728px;margin:0 auto;position:relative;z-index:1}
+.hero h1{color:#fff;font-weight:800;font-size:clamp(2.4rem,9vw,4.2rem);margin:0 0 10px;letter-spacing:-.025em}
+.hero h1 span{display:block}
+.hero h1 .second{color:var(--brass)}
+.hero .sub{font-size:1.1rem;margin:0 0 26px;color:#DCE6F3;max-width:34ch}
+.stars{position:absolute;inset:0;pointer-events:none}
+.waves{display:block;width:calc(100% + 32px);height:46px;margin:6px -16px 0}
+
+/* voyage line: the trip as a route of stops */
+.voyage{list-style:none;margin:0 -16px;padding:4px 16px 14px;display:flex;gap:0;overflow-x:auto;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch}
+.voyage li{flex:0 0 auto;scroll-snap-align:start;position:relative;min-width:96px}
+.voyage li::before{content:"";position:absolute;top:13px;left:0;right:0;border-top:2px dashed rgba(226,178,74,.55)}
+.voyage li:first-child::before{left:50%}
+.voyage li:last-child::before{right:50%}
+.voyage a{position:relative;display:flex;flex-direction:column;align-items:center;text-align:center;color:#fff;text-decoration:none;padding:0 6px;font-size:.88rem;line-height:1.25}
+.voyage .dot{width:28px;height:28px;border-radius:50%;background:var(--harbor-2);border:2px solid var(--brass);display:grid;place-items:center;font-weight:700;font-size:.8rem;margin-bottom:6px;color:#fff}
+.voyage .day{font-weight:700}
+.voyage .place{color:#C9D6E8}
+.voyage li.past .dot{background:var(--brass);color:var(--harbor)}
+.voyage li.today .dot{background:var(--brass);color:var(--harbor);box-shadow:0 0 0 5px rgba(226,178,74,.35)}
+.voyage li.today .day::after{content:" (today)";font-weight:400}
+@media (min-width:820px){.voyage{margin:0;padding:4px 0 14px;overflow:visible}.voyage li{flex:1 1 0;min-width:0}}
+
+/* layout */
+main{max-width:760px;margin:0 auto;padding:0 16px 96px}
+.today{background:var(--paper);border-left:6px solid var(--holly);border-radius:10px;box-shadow:var(--shadow);padding:18px 20px;margin:-6px 0 28px;position:relative;z-index:2}
+.today h2{margin:0 0 6px;font-size:1.45rem}
+.today p{margin:.3em 0}
+.today .small{color:var(--muted);font-size:.95rem}
+.content h2{font-size:clamp(1.55rem,5vw,1.95rem);margin:2.4em 0 .5em;padding-top:.2em;scroll-margin-top:12px}
+.content h3{font-size:1.25rem;margin:1.8em 0 .4em;scroll-margin-top:12px}
+.content p,.content li{max-width:68ch}
+.content ul,.content ol{padding-left:1.3em}
+.content li{margin:.35em 0}
+.content strong{color:inherit}
+.to-top{font-size:.95rem;margin:1.6em 0 0}
+.to-top a{color:var(--muted)}
+.to-top a::before{content:"\2191  "}
+#jump-to + p + ul{background:var(--paper);border-radius:10px;box-shadow:var(--shadow);padding:14px 18px 14px 34px}
+#jump-to + p + ul li{margin:.55em 0}
+
+/* checklists */
+li.task{list-style:none;position:relative;margin-left:-1.3em;padding-left:2em}
+li.task::before{content:"";position:absolute;left:0;top:.28em;width:1.05em;height:1.05em;border:2px solid var(--muted);border-radius:4px}
+li.task.done{color:var(--muted)}
+li.task.done::before{background:var(--evergreen);border-color:var(--evergreen)}
+li.task.done::after{content:"";position:absolute;left:.36em;top:.42em;width:.32em;height:.6em;border:solid #fff;border-width:0 3px 3px 0;transform:rotate(45deg)}
+
+/* tables */
+.table-wrap{margin:1em 0;overflow-x:auto}
+table{border-collapse:collapse;width:100%;background:var(--paper);border-radius:10px;overflow:hidden;box-shadow:var(--shadow);font-size:.97rem}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
+th{background:var(--soft);font-family:"Bricolage Grotesque",system-ui,sans-serif;font-weight:600;color:var(--harbor)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) th{color:#F3F6FB}}
+tr:last-child td{border-bottom:0}
+@media (max-width:700px){
+  table,thead,tbody,tr,td{display:block;width:100%}
+  thead{position:absolute;left:-9999px}
+  table{background:transparent;box-shadow:none;border-radius:0}
+  tr{background:var(--paper);border-radius:10px;box-shadow:var(--shadow);margin:0 0 12px;padding:6px 0}
+  td{border:0;padding:6px 14px}
+  td:empty{display:none}
+  td::before{content:attr(data-label);display:block;font-size:.82rem;font-weight:700;color:var(--muted)}
+  td:first-child{font-weight:700;color:var(--harbor);font-size:1.02rem}
+  td:first-child::before{display:none}
+}
+@media (max-width:700px) and (prefers-color-scheme: dark){:root:not([data-theme="light"]) td:first-child{color:#F3F6FB}}
+
+/* live weather + gates */
+.gate{font-weight:700}
+.gate.live{background:rgba(226,178,74,.22);padding:1px 6px;border-radius:5px}
+.weather-live .stamp{color:var(--muted);font-size:.95rem}
+
+/* floating sections button */
+.sections-btn{position:fixed;right:16px;bottom:16px;z-index:5;background:var(--harbor);color:#fff;text-decoration:none;font-weight:700;font-size:.95rem;padding:10px 16px;border-radius:999px;box-shadow:0 4px 14px rgba(0,0,0,.25);border:2px solid var(--brass)}
+footer{max-width:760px;margin:0 auto;padding:0 16px 120px;color:var(--muted);font-size:.9rem}
+</style>
+</head>
+<body>
+<header class="hero">
+  <svg class="stars" viewBox="0 0 400 240" preserveAspectRatio="xMaxYMin slice" aria-hidden="true">
+    <g fill="#E2B24A">
+      <path d="M352 30l3 7.4 8 .6-6.1 5.1 1.9 7.8-6.8-4.2-6.8 4.2 1.9-7.8-6.1-5.1 8-.6z"/>
+      <path d="M318 74l2 4.9 5.3.4-4 3.4 1.2 5.2-4.5-2.8-4.5 2.8 1.2-5.2-4-3.4 5.3-.4z" opacity=".8"/>
+      <path d="M378 96l1.6 3.9 4.2.3-3.2 2.7 1 4.1-3.6-2.2-3.6 2.2 1-4.1-3.2-2.7 4.2-.3z" opacity=".7"/>
+      <circle cx="290" cy="34" r="1.8" opacity=".7"/><circle cx="262" cy="70" r="1.3" opacity=".6"/>
+      <circle cx="340" cy="128" r="1.5" opacity=".6"/><circle cx="388" cy="56" r="1.2" opacity=".6"/>
+    </g>
+  </svg>
+  <div class="hero-inner">
+    <h1><span>Mom turns 70.</span><span class="second">Sami turns 5.</span></h1>
+    <p class="sub">Our Disney birthday trip to Orlando, Magic Kingdom and the Disney Wish, November 7 to 13, 2026.</p>
+    <ol class="voyage" id="voyage">
+      <li data-date="2026-11-07"><a href="#saturday"><span class="dot">7</span><span class="day">Sat</span><span class="place">Fly to Orlando</span></a></li>
+      <li data-date="2026-11-08"><a href="#magic-kingdom"><span class="dot">8</span><span class="day">Sun</span><span class="place">Magic Kingdom</span></a></li>
+      <li data-date="2026-11-09"><a href="#monday-boarding"><span class="dot">9</span><span class="day">Mon</span><span class="place">Board the Wish</span></a></li>
+      <li data-date="2026-11-10"><a href="#castaway-cay"><span class="dot">10</span><span class="day">Tue</span><span class="place">Castaway Cay</span></a></li>
+      <li data-date="2026-11-11"><a href="#lookout-cay"><span class="dot">11</span><span class="day">Wed</span><span class="place">Lookout Cay</span></a></li>
+      <li data-date="2026-11-12"><a href="#around-the-ship"><span class="dot">12</span><span class="day">Thu</span><span class="place">At sea</span></a></li>
+      <li data-date="2026-11-13"><a href="#flight-breeze"><span class="dot">13</span><span class="day">Fri</span><span class="place">Fly home</span></a></li>
+      <li data-date="2026-11-14"><a href="#flight-american"><span class="dot">14</span><span class="day">Sat</span><span class="place">Mom and Dad to Philly</span></a></li>
+    </ol>
+  </div>
+  <svg class="waves" viewBox="0 0 1200 46" preserveAspectRatio="none" aria-hidden="true">
+    <path d="M0 22 C 100 4, 200 40, 300 22 S 500 4, 600 22 S 800 40, 900 22 S 1100 4, 1200 22 V46 H0Z" fill="var(--page)"/>
+  </svg>
+</header>
+
+<main>
+  <section class="today" id="today" aria-live="polite">
+    <h2>Getting ready</h2>
+    <p>The trip starts Saturday, November 7.</p>
+  </section>
+  <div class="content">
+<!--CONTENT-->
+  </div>
+</main>
+<footer>
+  <p id="updated-stamp">This page updates itself every morning with the latest weather and, on travel days, the flight gates.</p>
+</footer>
+<a class="sections-btn" href="#jump-to">Sections</a>
+
+<script>
+(function(){
+  var TZ = "America/New_York";
+  function todayET(){
+    var p = new Intl.DateTimeFormat("en-CA",{timeZone:TZ,year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date());
+    return p; // YYYY-MM-DD
+  }
+  var days = {
+    "2026-11-07":{title:"Today: fly to Orlando",text:"Southwest leaves Raleigh at 11:10am and lands at 1:00pm. Mom and Dad's Frontier flight leaves Philadelphia at 10:37am and lands at 1:23pm. Grayson Towncar meets everyone in baggage claim at 1:23pm, then it's pool time at Port Orleans Riverside.",link:"#saturday"},
+    "2026-11-08":{title:"Today: Magic Kingdom",text:"Early entry at 7:30am, so catch the Riverside bus around 7am. The park closes to day guests at 6pm.",link:"#plan-for-the-day"},
+    "2026-11-09":{title:"Today: board the Disney Wish",text:"Grayson Towncar picks up at Port Orleans Riverside at about 12:30pm. Port arrival time is 1:45pm. Dad's cabin checklist starts as soon as we reach the staterooms.",link:"#dads-cabin-checklist"},
+    "2026-11-10":{title:"Today: Castaway Cay",text:"Docked 9am to 5pm. Glass Bottom Boat at 9:45am, lunch at Cookie's BBQ from about 11:30am.",link:"#castaway-cay"},
+    "2026-11-11":{title:"Today: Lookout Cay",text:"Docked 9am to 5pm. Wear walking shoes for the long pier, find shade early and eat lunch before the noon rush.",link:"#lookout-cay"},
+    "2026-11-12":{title:"Today: a full day at sea",text:"The busiest day on the ship. Pools early, shows 20 to 30 minutes early, and bags go outside the door tonight.",link:"#around-the-ship"},
+    "2026-11-13":{title:"Today: fly home to Raleigh",text:"Off the ship early. Grayson Towncar picks up at the terminal at 9:00am, and Breeze leaves Orlando at 1:42pm, landing in Raleigh at 3:42pm. Mom and Dad's American check-in opens at 3:58pm.",link:"#flight-breeze"},
+    "2026-11-14":{title:"Today: Mom and Dad fly to Philadelphia",text:"American leaves Raleigh at 3:58pm and lands in Philadelphia at 5:33pm.",link:"#flight-american"}
+  };
+  var t = todayET();
+  var start = Date.UTC(2026,10,7), now = Date.UTC(+t.slice(0,4), +t.slice(5,7)-1, +t.slice(8,10));
+  var diff = Math.round((start-now)/86400000);
+  var box = document.getElementById("today");
+  if (days[t]) {
+    box.innerHTML = '<h2>'+days[t].title+'</h2><p>'+days[t].text+'</p><p class="small"><a href="'+days[t].link+'">See the details</a> or <a href="#weather">check today\'s weather</a>.</p>';
+  } else if (diff > 0) {
+    box.innerHTML = '<h2>'+(diff===1?'1 day to go':diff+' days to go')+'</h2><p>We leave Saturday, November 7. Southwest leaves Raleigh at 11:10am, and Mom and Dad\'s Frontier flight leaves Philadelphia at 10:37am.</p><p class="small"><a href="#to-do">See what\'s left to do</a> or <a href="#for-mom-and-dad">jump to Mom and Dad\'s section</a>.</p>';
+  } else {
+    box.innerHTML = '<h2>Welcome home</h2><p>Happy 70th, Mom, and happy 5th, Sami. Thanks for a wonderful trip.</p>';
+  }
+  document.querySelectorAll("#voyage li").forEach(function(li){
+    var d = li.getAttribute("data-date");
+    if (d === t) li.classList.add("today"); else if (d < t) li.classList.add("past");
+  });
+
+  // label table cells so tables stack nicely on phones
+  document.querySelectorAll(".content table").forEach(function(tbl){
+    var heads = Array.prototype.map.call(tbl.querySelectorAll("thead th"), function(th){return th.textContent.trim();});
+    tbl.querySelectorAll("tbody tr").forEach(function(tr){
+      Array.prototype.forEach.call(tr.children, function(td,i){ if (heads[i]) td.setAttribute("data-label", heads[i]); });
+    });
+  });
+
+  function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c];});}
+  function stampText(iso){
+    try{
+      var d = new Date(iso);
+      return d.toLocaleString("en-US",{timeZone:TZ,weekday:"short",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});
+    }catch(e){return "";}
+  }
+  fetch("data.json?v="+Date.now(),{cache:"no-store"}).then(function(r){return r.json();}).then(function(data){
+    var w = data.weather || {};
+    var html = "";
+    if (w.lead) html += "<p>"+esc(w.lead)+"</p>";
+    var rows = (w.rows||[]);
+    if (rows.length){
+      html += '<div class="table-wrap"><table><thead><tr><th>Day</th><th>Place</th><th>Forecast (as of '+esc(w.asOf||"")+')</th><th>Wear</th></tr></thead><tbody>';
+      rows.forEach(function(r){
+        html += '<tr><td>'+esc(r.day)+'</td><td data-label="Place">'+esc(r.place)+'</td><td data-label="Forecast">'+esc(r.forecast)+'</td><td data-label="Wear">'+esc(r.wear)+'</td></tr>';
+      });
+      html += "</tbody></table></div>";
+    }
+    var stamp = data.updated ? stampText(data.updated) : "";
+    if (stamp) html += '<p class="stamp">Last checked '+esc(stamp)+'.</p>';
+    document.getElementById("weather-live").innerHTML = html || "<p>The forecast will appear here.</p>";
+    var g = data.gates || {};
+    document.querySelectorAll(".gate").forEach(function(el){
+      var v = g[el.getAttribute("data-flight")];
+      if (v){ el.textContent = v; if (!/posted that morning/i.test(v)) el.classList.add("live"); }
+    });
+    if (stamp) document.getElementById("updated-stamp").textContent = "Weather and gates last checked "+stamp+". This page updates itself every morning.";
+  }).catch(function(){
+    document.getElementById("weather-live").innerHTML = "<p>The forecast didn't load. Refresh the page to try again.</p>";
+  });
+})();
+</script>
+</body>
+</html>
