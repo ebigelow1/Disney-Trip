@@ -1,4 +1,4 @@
-Two birthdays, one big trip: Mom turns 70 and Sami turns 5. It's also the boys' first time at Disney and the first Disney cruise for all of us. Everything for Nov 7 to 13 is below. Mom and Dad, your flights, documents and packing list are in [For Mom and Dad](#for-mom-and-dad).
+Everything for Nov 7 to 13 is below. Mom and Dad, your flights, documents and packing list are in [For Mom and Dad](#for-mom-and-dad).
 
 ## Jump to {#jump-to}
 
@@ -6,7 +6,7 @@ Mom and Dad, start with [For Mom and Dad](#for-mom-and-dad). Yusif, start with [
 
 - [Trip at a glance](#trip-at-a-glance)
 - [Flights: times, seats and check-in](#flights) and [bags by flight](#bags-by-flight)
-- [Birthday and first-visit touches](#birthday-touches)
+- [First-visit touches](#birthday-touches)
 - [Weather by day](#weather)
 - [To do this week](#to-do)
 - [Saturday: arrival and pool time](#saturday)
@@ -102,13 +102,13 @@ Splitting the 2 Southwest bags between you and Yusif costs $90. Putting both on 
 [Back to the list of sections](#jump-to)
 {: .to-top }
 
-## Birthday and first-visit touches {#birthday-touches}
+## First-visit touches {#birthday-touches}
 
-A few easy ways to make both birthdays part of the whole trip:
+A few easy ways to make the boys' first Disney trip and our first cruise feel special:
 
-- Pick up free birthday buttons for Mom and Sami, and 1st Visit buttons for Sami and Aydin, at City Hall on Main Street or most shops in Magic Kingdom. Cast members and characters will wish them a happy birthday all day.
-- Tell your serving team on the ship about both birthdays the first night so they can celebrate at the table.
-- Very Merrytime sailings are decorated for the holidays, so the holiday outfits and matching pajamas double as birthday photos.
+- Pick up free 1st Visit buttons for Sami and Aydin, and I'm Celebrating buttons for the rest of us, at City Hall on Main Street or most shops in Magic Kingdom. Sami can wear a birthday button too, since he just turned 5. Cast members and characters notice the buttons and make a fuss all day.
+- Tell your serving team on the ship the first night that it's our first Disney cruise and the boys' first Disney trip, so they can celebrate at the table.
+- Very Merrytime sailings are decorated for the holidays, so the holiday outfits and matching pajamas double as first-cruise photos.
 
 [Back to the list of sections](#jump-to)
 {: .to-top }
@@ -260,7 +260,7 @@ This route makes one clockwise loop, so there's no doubling back: Fantasyland, S
 | --- | --- | --- | --- |
 | 7:00am | Riverside bus stop | Catch an early bus. Dad's scooter boards first by ramp. |  |
 | 7:30am | Fantasyland | Grab the double stroller at the rental spot by the entrance. Then Seven Dwarfs Mine Train (Rider Switch, so you and Yusif each ride with Sami) and Peter Pan's Flight. | Not needed: early entry |
-| 8:30am | Fantasyland | Winnie the Pooh and Under the Sea. Ask the first open shop for birthday and 1st Visit buttons. | Not needed: short morning lines |
+| 8:30am | Fantasyland | Winnie the Pooh and Under the Sea. Ask the first open shop for 1st Visit and I'm Celebrating buttons. | Not needed: short morning lines |
 | 9:15am | Storybook Circus | The Barnstormer (Aydin's first coaster, then Sami again), Dumbo, the Casey Jr. splash pad if it's warm. | Not needed: quick re-rides |
 | 10:00am | Tomorrowland | Buzz Lightyear, Tomorrowland Speedway, the PeopleMover. | Yes, for Buzz |
 | 11:15am | Castle | Castle photos with the holiday decorations on the way across. |  |
@@ -615,7 +615,7 @@ The Wish carries a lot of people, and most complaints in reviews are about crowd
 - **Shows and the small movie theaters fill up.** Get to the Walt Disney Theatre 20 to 30 minutes early. Disney Seas the Adventure is the shortest evening show at 45 minutes, which makes it a good first try for the boys.
 - **Dining rooms are tight, and the shows can upstage the meal.** Tables sit close together, and at Arendelle the servers step away during the performances, so food can show up cold. If something arrives cold, ask for a new plate.
 - **Breakfast at Marceline Market is a crush.** Claim a table first, then get food. At sit-down breakfast, ask your server for the Mickey churro waffles. They're free, but only on request.
-- **The gift shop is small and doesn't restock.** Mickey's Mainsail gets busy around dinner, and items don't come back until the next sailing, so buy the Very Merrytime and birthday souvenirs you want early in the trip.
+- **The gift shop is small and doesn't restock.** Mickey's Mainsail gets busy around dinner, and items don't come back until the next sailing, so buy the Very Merrytime and first-trip souvenirs you want early in the trip.
 - **Lookout Cay means a long pier, heat and less shade.** Wear walking shoes, claim a shaded spot soon after you arrive, eat lunch before the noon rush, and bring sunscreen, hats and refillable water bottles.
 
 [Back to the list of sections](#jump-to)

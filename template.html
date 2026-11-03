@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Our Disney Birthday Trip</title>
-<meta name="description" content="Mom's 70th and Sami's 5th: the family plan for Orlando, Magic Kingdom and the Disney Wish, Nov 7 to 13, 2026.">
+<title>Our First Disney Trip</title>
+<meta name="description" content="Sami and Aydin's first Disney trip and our first Disney cruise together: the family plan for Orlando, Magic Kingdom and the Disney Wish, Nov 7 to 13, 2026.">
 <meta name="robots" content="noindex, nofollow">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -47,8 +47,9 @@ h1,h2,h3{font-family:"Bricolage Grotesque",system-ui,sans-serif;line-height:1.15
 .hero h1{color:#fff;font-weight:800;font-size:clamp(2.4rem,9vw,4.2rem);margin:0 0 10px;letter-spacing:-.025em}
 .hero h1 span{display:block}
 .hero h1 .second{color:var(--brass)}
-.hero .sub{font-size:1.1rem;margin:0 0 26px;color:#DCE6F3;max-width:34ch}
+.hero .sub{font-size:1.1rem;margin:0 0 26px;color:#DCE6F3;max-width:40ch}
 .stars{position:absolute;inset:0;pointer-events:none}
+@media (max-width:600px){.stars{display:none}}
 .waves{display:block;width:calc(100% + 32px);height:46px;margin:6px -16px 0}
 
 /* voyage line: the trip as a route of stops */
@@ -133,8 +134,8 @@ footer{max-width:760px;margin:0 auto;padding:0 16px 120px;color:var(--muted);fon
     </g>
   </svg>
   <div class="hero-inner">
-    <h1><span>Mom turns 70.</span><span class="second">Sami turns 5.</span></h1>
-    <p class="sub">Our Disney birthday trip to Orlando, Magic Kingdom and the Disney Wish, November 7 to 13, 2026.</p>
+    <h1><span>First Disney trip.</span><span class="second">First Disney cruise.</span></h1>
+    <p class="sub">Sami and Aydin's first visit to Disney, and the first Disney cruise for all six of us together. Orlando, Magic Kingdom and the Disney Wish, November 7 to 13, 2026.</p>
     <ol class="voyage" id="voyage">
       <li data-date="2026-11-07"><a href="#saturday"><span class="dot">7</span><span class="day">Sat</span><span class="place">Fly to Orlando</span></a></li>
       <li data-date="2026-11-08"><a href="#magic-kingdom"><span class="dot">8</span><span class="day">Sun</span><span class="place">Magic Kingdom</span></a></li>
@@ -191,7 +192,7 @@ footer{max-width:760px;margin:0 auto;padding:0 16px 120px;color:var(--muted);fon
   } else if (diff > 0) {
     box.innerHTML = '<h2>'+(diff===1?'1 day to go':diff+' days to go')+'</h2><p>We leave Saturday, November 7. Southwest leaves Raleigh at 11:10am, and Mom and Dad\'s Frontier flight leaves Philadelphia at 10:37am.</p><p class="small"><a href="#to-do">See what\'s left to do</a> or <a href="#for-mom-and-dad">jump to Mom and Dad\'s section</a>.</p>';
   } else {
-    box.innerHTML = '<h2>Welcome home</h2><p>Happy 70th, Mom, and happy 5th, Sami. Thanks for a wonderful trip.</p>';
+    box.innerHTML = '<h2>Welcome home</h2><p>Thanks for a wonderful first Disney trip and our first cruise together.</p>';
   }
   document.querySelectorAll("#voyage li").forEach(function(li){
     var d = li.getAttribute("data-date");

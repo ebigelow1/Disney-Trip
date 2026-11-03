@@ -1,6 +1,6 @@
-# Our Disney Birthday Trip
+# Our First Disney Trip
 
-The family trip page for Mom's 70th and Sami's 5th, Nov 7 to 13, 2026.
+The family trip page for Sami and Aydin's first Disney trip and our first Disney cruise together, Nov 7 to 13, 2026.
 It's published with GitHub Pages at https://ebigelow1.github.io/Disney-Trip/
 
 How it's put together:
