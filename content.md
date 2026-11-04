@@ -46,7 +46,7 @@ Seven days in three places: two nights at Port Orleans Riverside, Magic Kingdom 
 
 | Day | Where | What's happening |
 | --- | --- | --- |
-| Sat Nov 7 | Raleigh to Orlando | Southwest WN3618 leaves RDU at 11:10am and lands at MCO at 1:00pm, with Aydin in his own seat. Mom and Dad land at 1:23pm on Frontier F9 2507. Grayson Towncar meets everyone in baggage claim at 1:23pm. Resort by about 2:45 to 3pm, then pool time, maybe a visit from Uncle Warren, dinner and an early night. |
+| Sat Nov 7 | Raleigh to Orlando | Southwest WN3618 leaves RDU at 11:10am and lands at MCO at 1:00pm, with Aydin in his own seat. Mom and Dad land at 1:23pm on Frontier F9 2507. Grayson Towncar meets everyone in baggage claim at 1:23pm. Resort by about 2:45 to 3pm, then pool time, dinner and an early night. |
 | Sun Nov 8 | Magic Kingdom | Early entry at 7:30am, park open 8am to 6pm. First night of Mickey's Very Merry Christmas Party, so day guests leave at 6pm. |
 | Mon Nov 9 | Port Canaveral | Grayson Towncar picks up at Port Orleans Riverside at about 12:30pm (Emiline is moving it from 10:30am). Port arrival time is 1:45pm. |
 | Tue Nov 10 | Castaway Cay | Docked 9am to 5pm. Glass Bottom Boat at 9:45am. |
@@ -131,7 +131,7 @@ Splitting the 2 Southwest bags between you and Yusif costs $90. Putting both on 
 
 ### Saturday: arrival and pool time {#saturday}
 
-We should reach the resort around 2:45 to 3pm, which leaves the rest of the afternoon for the pool, a visit from Uncle Warren if he can come, then an easy dinner and an early night before Magic Kingdom.
+We should reach the resort around 2:45 to 3pm, which leaves the rest of the afternoon for the pool, then an easy dinner and an early night before Magic Kingdom.
 
 | Time | What's happening |
 | --- | --- |
@@ -141,8 +141,7 @@ We should reach the resort around 2:45 to 3pm, which leaves the rest of the afte
 | About 2:30 to 3:00pm | Arrive at Port Orleans Riverside and meet the scooter delivery if it's scheduled for this afternoon. Check-in is 3pm, and the app texts you when the rooms are ready. |
 | 3:15 to 4:30pm | Pool time at Ol' Man Island, Riverside's main pool. Swimsuits ride in the carry-ons so the boys can swim even if rooms aren't ready yet. |
 | 4:30pm | Back to the rooms to rinse off and change. |
-| About 5:00pm | Uncle Warren, Dad's brother, meets us at the resort if he can make it (Erin is asking him). Meet at the pool or in the lobby. |
-| About 5:30pm | Dinner together at Riverside Mill, the resort's food court, with Warren if he can stay. |
+| About 5:30pm | Dinner together at Riverside Mill, the resort's food court. |
 | By 8:00pm | Early night. The Magic Kingdom bus is around 7am. |
 
 Your picks at Riverside Mill are in the food section.
@@ -168,7 +167,7 @@ Your 8am to 6pm plan matches the park's hours exactly. Resort guests can get in 
 
 #### Does Yusif's friend need to be there? {#yusifs-friend}
 
-It depends on which kind of pass he's giving you, so Yusif should ask.
+It depends on which kind of pass he's giving you, so Yusif should ask. Right now the plan is for him to meet us at the gate at 7:30am.
 
 - **Main Entrance Pass** (the usual friends-and-family pass): yes. He has to be at the gate for your first entry, then he can leave. These passes also have blockout dates and may need a park reservation for the day.
 - **Complimentary one-day tickets:** cast members get a small number of these each year. They work like regular tickets, so he wouldn't need to come.
@@ -176,9 +175,9 @@ It depends on which kind of pass he's giving you, so Yusif should ask.
 
 #### Stroller and scooter {#stroller-and-scooter}
 
-ScooterBug is sold out for your dates, so the plan is a delivered scooter for Dad from another company and Disney's own double stroller inside the park.
+ScooterBug is sold out for your dates, so Dad has two choices: a scooter delivered to the resort by another company, or Disney's own scooter rented at the Magic Kingdom entrance. Either way, we'll use Disney's double stroller inside the park.
 
-**Scooter for Dad.** Call these in order and ask for delivery to Port Orleans Riverside on Sat Nov 7 afternoon, with pickup Mon Nov 9 before your car to the port:
+**Choice 1: a delivered scooter.** Call these in order and ask for delivery to Port Orleans Riverside on Sat Nov 7 afternoon, with pickup Mon Nov 9 before your car to the port:
 
 - Buena Vista Scooters: (866) 484-4797
 - Walker Mobility: (888) 726-6837
@@ -189,11 +188,11 @@ ScooterBug is sold out for your dates, so the plan is a delivered scooter for Da
 
 Only ScooterBug can leave rentals at a Disney resort's Bell Services, so expect to meet the driver at delivery and at pickup. Ask each company how that works.
 
-Backup: Disney rents scooters at the Magic Kingdom entrance for $65 a day plus a $20 refundable deposit, first come first served, and they can't leave the park. Arriving for 7:30am early entry gives Dad the best odds. Free wheelchairs are usually parked near the bus stops for getting to the rental spot.
+**Choice 2: Disney's scooter at the park.** Disney rents scooters at the Magic Kingdom entrance for $65 a day plus a $20 refundable deposit, first come first served, and they can't leave the park. Arriving for 7:30am early entry gives Dad the best odds. With this choice, Dad walks from the room to the bus and from the bus to the entrance, then back again at the end of the day. Free wheelchairs are usually parked near the bus stops for getting to the rental spot.
 
 **Double stroller.** Rent Disney's at the Magic Kingdom entrance for $31. They're first come first served, and it's the simplest option since no one has to meet a delivery. It stays in the park, so bring Aydin's umbrella stroller for the resort, the bus and the rest of the trip. If you'd rather have one for all three days, Kingdom Strollers, Orlando Stroller Rentals and Magic Strollers deliver to Disney resorts for about $50 to $55, with an in-person handoff.
 
-Dad should practice backing up Saturday evening, since buses load scooters by ramp, and take the key out every time he parks it.
+If the scooter is delivered, Dad should practice backing up Saturday evening, since buses load scooters by ramp, and take the key out every time he parks it.
 
 #### Lightning Lane: what it is and what it costs {#lightning-lane}
 
@@ -244,8 +243,8 @@ This route makes one clockwise loop, so there's no doubling back: Fantasyland, S
 
 | Time | Where | What to do | Lightning Lane? |
 | --- | --- | --- | --- |
-| 7:00am | Riverside bus stop | Catch an early bus. Dad's scooter boards first by ramp. |  |
-| 7:30am | Fantasyland | Grab the double stroller at the rental spot by the entrance. Then Seven Dwarfs Mine Train (Rider Switch, so you and Yusif each ride with Sami) and Peter Pan's Flight. | Not needed: early entry |
+| 7:00am | Riverside bus stop | Catch an early bus. A delivered scooter boards first by ramp. |  |
+| 7:30am | Fantasyland | Meet Yusif's friend at the entrance (the plan is 7:30am), then grab the double stroller at the rental spot inside. Then Seven Dwarfs Mine Train (Rider Switch, so you and Yusif each ride with Sami) and Peter Pan's Flight. | Not needed: early entry |
 | 8:30am | Fantasyland | Winnie the Pooh and Under the Sea. Ask the first open shop for 1st Visit and I'm Celebrating buttons. | Not needed: short morning lines |
 | 9:15am | Storybook Circus | The Barnstormer (Aydin's first coaster, then Sami again), Dumbo, the Casey Jr. splash pad if it's warm. | Not needed: quick re-rides |
 | 10:00am | Tomorrowland | Buzz Lightyear, Tomorrowland Speedway, the PeopleMover. | Yes, for Buzz |
@@ -389,10 +388,12 @@ Disney Cruise Line screens every bag at the port and holds anything on its prohi
 
 ### Erin's to-do list {#to-do}
 
-The two most time-sensitive items are Sami's and Dad's park tickets and the stroller and scooter rentals, since everything else on Sunday depends on them.
+The two most time-sensitive items are Sami's and Dad's park tickets and the scooter decision, since everything else on Sunday depends on them.
 
 - [ ] Buy Magic Kingdom 1-day tickets for Sami and Dad (discount options are in the Magic Kingdom section). Link both in My Disney Experience. Aydin is free.
-- [ ] Rent Dad's scooter (ScooterBug is sold out): call Buena Vista Scooters, Walker Mobility or Apple Scooter for delivery to Port Orleans Riverside Sat Nov 7 and pickup Mon Nov 9. Numbers are in the Magic Kingdom section. Plan on Disney's double stroller at the park entrance.
+- [ ] Decide on Dad's scooter: preorder a delivery to Port Orleans Riverside (Sat Nov 7 to Mon Nov 9, numbers in the Magic Kingdom section), or rent Disney's at the park entrance when we get there at 7:30am. Disney's is $65 for the day plus a $20 deposit, first come first served, and it stays in the park. Plan on Disney's double stroller either way.
+- [ ] iPads: charge them, download shows and games for the flights, and pack them with chargers and kids' headphones
+- [ ] Return the shoes and order VAL
 - [ ] Confirm Emiline moved Monday's car from 10:30am to about 12:30pm.
 - [ ] Aydin's Southwest seat: a Flight Network supervisor is adding it and will email you. If there's no email by Wednesday, call Southwest at 1-800-435-9792 and ask them to sell him his own seat on WN3618 next to you. If the 2 checked bags (one under you, one under Yusif) aren't added before then, pay for them when you check in on the Southwest app Friday at 11:10am.
 - [ ] Breeze home: nothing to buy. Ask whether Aydin can bring a diaper bag as a lap child; if not, his things go in the family's bags.
@@ -436,6 +437,20 @@ How to order: tell your server or cashier you're eating whole foods with no adde
 ### Erin's packing list {#erin-packing}
 
 Pack for warm days in the high 70s to mid 80s, cool Orlando mornings around 60°F, cold dining rooms, and a chilly Raleigh on both ends.
+
+**Erin's own list**
+
+- [ ] Jumper
+- [ ] Dress pants
+- [ ] Jean shorts
+- [ ] 2 stretchy shorts
+- [ ] Capris
+- [ ] Green pants
+- [ ] Cover-ups
+- [ ] Swimsuits
+- [ ] Sunglasses
+- [ ] Sneakers and Crocs
+- [ ] Flats and sandals
 
 **Clothes**
 
@@ -489,9 +504,11 @@ Sami needs a week of play clothes plus spares, swim gear for two island days and
 - [ ] 2 slightly nicer dinner outfits (optional)
 - [ ] 4 pajamas (one holiday pair if you're matching), a Christmas shirt, a pirate bandana (optional)
 - [ ] Kids' sunscreen
-- [ ] Plane bag: tablet and kids' headphones, dinosaur or monster truck sticker and activity books, a couple of small Transformers
+- [ ] Plane bag: his iPad, charger and kids' headphones, dinosaur or monster truck sticker and activity books, a couple of small Transformers
 - [ ] Autograph book from Amazon and a thick marker
 - [ ] Bedtime comfort item
+- [ ] His water bottle
+- [ ] Bath toys and 10 books, shared with Aydin
 
 His passport goes in the family document folder. Kids club sign-up steps are just below.
 
@@ -527,6 +544,9 @@ Aydin has his own seat on Saturday's Southwest flight and rides on a lap on Frid
 - [ ] Your small fold-up umbrella stroller, which fits on the plane, for the airport, resort, bus and ship
 - [ ] Comfort item, a sound machine or app, and a small night light
 - [ ] Kids' medicine kit: fever reducer, thermometer, bandages
+- [ ] His iPad and charger
+- [ ] Socks and sweaters
+- [ ] His water bottle
 
 Optional: the ship's it's a small world nursery takes ages 6 months to 3 years for an hourly fee, which could give you and Yusif a dinner alone. Book it in the Navigator app.
 
@@ -556,7 +576,7 @@ The embarkation-day carry-ons cover what we'll need before the luggage reaches t
 - [ ] Dad's CPAP
 - [ ] A change of clothes for each boy
 - [ ] Diapers and wipes for 8 hours
-- [ ] Snacks and water bottles
+- [ ] The snack bag, packed and on top, plus water bottles
 
 [Back to the list of sections](#jump-to)
 {: .to-top }
@@ -565,14 +585,14 @@ The embarkation-day carry-ons cover what we'll need before the luggage reaches t
 
 ### Yusif's to-dos, documents and packing {#for-yusif}
 
-Yusif's most important jobs this week are locking down the three guest passes for Magic Kingdom, setting up Sunday's meet-up with his friend, and keeping the documents for the four of us.
+Yusif's most important jobs this week are locking down the three guest passes for Magic Kingdom, confirming Sunday's 7:30am meet-up with his friend, and keeping the documents for the four of us.
 
 **This week**
 
 - [ ] Ask his friend which kind of passes these are: a Main Entrance Pass (he has to be at the gate when you go in) or complimentary one-day tickets (he doesn't)
 - [ ] If it's the Main Entrance Pass: is Nov 8 blocked out, does he need a park reservation, and what time will he meet you
 - [ ] Ask whether the passes can be linked in My Disney Experience, which Lightning Lane needs
-- [ ] Set up Sunday's meet-up with his friend: the time and spot at the Magic Kingdom entrance, and a number to text if plans change
+- [ ] Confirm Sunday's meet-up with his friend: the plan is 7:30am at the Magic Kingdom entrance. Swap numbers in case anything changes
 - [ ] Pull together the documents for the four of us (the document folder below) and carry them in his carry-on
 - [ ] Download My Disney Experience and the Disney Cruise Line Navigator app. The Navigator chat works on the ship's network without buying internet.
 
@@ -599,7 +619,7 @@ Yusif's most important jobs this week are locking down the three guest passes fo
 **Jobs to split on the trip**
 
 - Folding the double stroller at the bus stops
-- Meeting the scooter delivery on Saturday and the pickup on Monday
+- Meeting the scooter delivery on Saturday and the pickup on Monday, if we book one
 
 [Back to the list of sections](#jump-to)
 {: .to-top }
@@ -628,7 +648,7 @@ This free app is the ship's daily schedule: show times, dining, character visits
 - [ ] Nov 14 flight home to Philadelphia: pay for a checked bag each at the American counter at RDU, about $55 a bag. The limit is 50 lb and 62 inches total, the same as Breeze, so bags packed for the Breeze flight work as they are. Over 50 lb costs a lot more.
 - [ ] Weigh the Frontier bags at home. The limit is 40 lb and 62 inches total (length plus width plus height) for each bag. The Breeze flight home allows 50 lb, so there's 10 extra pounds of room on the way back.
 - [ ] Download My Disney Experience (and join our party) and the Disney Cruise Line Navigator app
-- [ ] Dad: practice the scooter Saturday evening at the resort, especially backing up
+- [ ] Dad: if the scooter is delivered, practice it Saturday evening at the resort, especially backing up
 
 **Documents**
 
@@ -652,10 +672,9 @@ This free app is the ship's daily schedule: show times, dining, character visits
 
 **Good to know**
 
-- Dad's scooter is just for Magic Kingdom day, Saturday through Monday morning. Trams run from the ship on both islands, so he can ride instead of walk.
+- Dad's scooter is just for Magic Kingdom day. Trams run from the ship on both islands, so he can ride instead of walk.
 - The Glass Bottom Boat involves a 5-step ladder down into the boat.
 - The car service tip is already paid. Bring small bills for porters and housekeeping.
-- Erin has invited Uncle Warren to meet us at the resort Saturday afternoon, and she'll confirm once she hears back.
 
 [Back to the list of sections](#jump-to)
 {: .to-top }
