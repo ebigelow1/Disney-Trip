@@ -1,17 +1,57 @@
 {
-  "updated": "2026-11-02T07:45:00-05:00",
+  "updated": "2026-11-05T15:44:00-05:00",
   "weather": {
-    "asOf": "Nov 2",
-    "lead": "Orlando looks sunny and dry both days, then a cold front on Monday brings cooler air and a steady north breeze to the ship and islands, so Lookout Cay may feel more like the mid 70s. No tropical storms are expected; the hurricane center gives one weak low northeast of the Bahamas a 20% chance, and it should drift out to sea by the weekend. These are 5 to 11 day forecasts, so they will shift. This table gets re-checked every morning through Nov 13.",
+    "asOf": "Nov 5",
+    "lead": "Orlando looks sunny and dry Saturday and Sunday with highs near 80. A weak front Monday brings a 20% shower chance at Port Canaveral. Behind it, Castaway Cay turns breezy Tuesday with a west wind near 15 mph, and Lookout Cay stays near 81°F with a passing shower possible. No tropical storms are expected; a low south of Bermuda is moving east, away from our route. Forecasts past day 5 still shift, so this table gets re-checked every morning through Nov 12.",
     "rows": [
-      {"day": "Sat Nov 7, morning", "place": "Raleigh (RDU)", "forecast": "Upper 40s at dawn, near 71°F by afternoon, mostly sunny", "wear": "Long pants and a light jacket for the airport"},
-      {"day": "Sat Nov 7", "place": "Orlando", "forecast": "Sunny and dry, high 78 to 81°F, low 60 to 65°F", "wear": "Shorts or light pants, layer for evening"},
-      {"day": "Sun Nov 8", "place": "Magic Kingdom", "forecast": "Mostly sunny and dry, high near 80°F, low to mid 60s°F at the 7:30am start", "wear": "Light layer at rope drop, hats and sunscreen, ponchos just in case"},
-      {"day": "Mon Nov 9", "place": "Port Canaveral", "forecast": "Cooler and drier after a front, high 76 to 78°F, low near 60°F, breezy", "wear": "Easy travel clothes, a light layer for the breeze, swimsuits in the carry-on"},
-      {"day": "Tue Nov 10", "place": "Castaway Cay", "forecast": "Sun and clouds, 79 to 81°F, breezy northwest wind near 15 mph, small morning shower chance", "wear": "Swim, rash guards, hats, sunscreen"},
-      {"day": "Wed Nov 11", "place": "Lookout Cay", "forecast": "Cooler, mid to upper 70s°F, mostly cloudy, north wind 15 to 20 mph, low rain chance", "wear": "Swim, rash guards, a light layer for the wind"},
-      {"day": "Thu Nov 12", "place": "At sea", "forecast": "Mid 70s°F and breezy, past the reach of most forecasts so far", "wear": "Pool clothes by day, a jacket for the open decks at night"},
-      {"day": "Fri Nov 13", "place": "Port Canaveral, then Raleigh", "forecast": "Cape Canaveral mid 70s°F, too far out for detail; Raleigh near 60°F by day and low 40s at night", "wear": "Pants and a jacket for landing at RDU"}
+      {
+        "day": "Sat Nov 7, morning",
+        "place": "Raleigh (RDU)",
+        "forecast": "About 42°F at dawn, partly sunny, high near 59°F",
+        "wear": "Long pants and a light jacket for the airport"
+      },
+      {
+        "day": "Sat Nov 7",
+        "place": "Orlando",
+        "forecast": "Mostly sunny and dry, high near 80°F, low near 64°F",
+        "wear": "Shorts or light pants, layer for evening"
+      },
+      {
+        "day": "Sun Nov 8",
+        "place": "Magic Kingdom",
+        "forecast": "Partly sunny and dry, high near 80°F, mid 60s°F at the 7:30am start",
+        "wear": "Light layer at rope drop, hats and sunscreen, ponchos just in case"
+      },
+      {
+        "day": "Mon Nov 9",
+        "place": "Port Canaveral",
+        "forecast": "Weak front arrives, partly sunny, high near 77°F, 20% shower chance late",
+        "wear": "Easy travel clothes, a light rain jacket, swimsuits in the carry-on"
+      },
+      {
+        "day": "Tue Nov 10",
+        "place": "Castaway Cay",
+        "forecast": "Mostly cloudy, near 81°F, breezy west wind near 15 mph",
+        "wear": "Swim, rash guards, hats, sunscreen"
+      },
+      {
+        "day": "Wed Nov 11",
+        "place": "Lookout Cay",
+        "forecast": "Partly cloudy, near 81°F, about a 25% shower chance, light wind",
+        "wear": "Swim, rash guards, a light cover-up for a passing shower"
+      },
+      {
+        "day": "Thu Nov 12",
+        "place": "At sea",
+        "forecast": "Upper 70s to 80°F, partly cloudy, a few showers possible",
+        "wear": "Pool clothes by day, a jacket for the open decks at night"
+      },
+      {
+        "day": "Fri Nov 13",
+        "place": "Port Canaveral, then Raleigh",
+        "forecast": "Cape Canaveral mostly sunny, high near 77°F; Raleigh sunny, mid 60s°F by day and low 50s at night",
+        "wear": "Pants and a jacket for landing at RDU"
+      }
     ]
   },
   "gates": {
