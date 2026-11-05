@@ -62,7 +62,7 @@ Both cruise reservations are checked in. Grayson Towncar handles all three rides
 
 ### Flights: times, seats and check-in {#flights}
 
-All five flights were booked through Flight Network, so its chat and the My Bookings page on flightnetwork.com handle any changes. Confirmation codes and ticket numbers are left off this page on purpose, since anyone with the link can see it. Erin has them. Gates aren't posted until the day of travel, so they'll show up here by about 7:45am each travel morning. Check the airline app before you leave for the airport too, since gates and times can change.
+All five flights were booked through Flight Network, so its chat and the My Bookings page on flightnetwork.com handle any changes. Confirmation codes and ticket numbers are left off this page on purpose, since anyone with the link can see it. Erin has them. Gates aren't posted until the day of travel, so Erin will add them here once they're posted each travel morning. Check the airline app before you leave for the airport too, since gates and times can change.
 
 #### Sat Nov 7: Erin, Yusif, Sami and Aydin {#flight-southwest}
 
