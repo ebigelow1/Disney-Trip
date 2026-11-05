@@ -1074,7 +1074,7 @@ footer{max-width:760px;margin:0 auto;padding:0 16px 120px;color:var(--muted);fon
   </div>
 </main>
 <footer>
-  <p id="updated-stamp">This page updates itself every morning with the latest weather and, on travel days, the flight gates.</p>
+  <p id="updated-stamp">Erin updates the weather here as the trip gets closer, and the flight gates on travel days.</p>
 </footer>
 <a class="sections-btn" href="#jump-to">Sections</a>
 
@@ -1146,7 +1146,7 @@ footer{max-width:760px;margin:0 auto;padding:0 16px 120px;color:var(--muted);fon
       var v = g[el.getAttribute("data-flight")];
       if (v){ el.textContent = v; if (!/posted that morning/i.test(v)) el.classList.add("live"); }
     });
-    if (stamp) document.getElementById("updated-stamp").textContent = "Weather and gates last checked "+stamp+". This page updates itself every morning.";
+    if (stamp) document.getElementById("updated-stamp").textContent = "Weather and gates last checked "+stamp+".";
   }).catch(function(){
     document.getElementById("weather-live").innerHTML = "<p>The forecast didn't load. Refresh the page to try again.</p>";
   });
