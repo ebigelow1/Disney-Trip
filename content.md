@@ -48,7 +48,7 @@ Seven days in three places: two nights at Port Orleans Riverside, Magic Kingdom 
 | --- | --- | --- |
 | Sat Nov 7 | Raleigh to Orlando | Southwest WN3618 leaves RDU at 11:10am and lands at MCO at 1:00pm, with Aydin in his own seat. Mom and Dad land at 1:23pm on Frontier F9 2507. Grayson Towncar meets everyone in baggage claim at 1:23pm. Resort by about 2:45 to 3pm, then pool time, dinner and an early night. |
 | Sun Nov 8 | Magic Kingdom | Early entry at 7:30am, park open 8am to 6pm. First night of Mickey's Very Merry Christmas Party, so day guests leave at 6pm. |
-| Mon Nov 9 | Port Canaveral | Grayson Towncar picks up at Port Orleans Riverside at about 12:30pm (Emiline is moving it from 10:30am). Port arrival time is 1:45pm. |
+| Mon Nov 9 | Port Canaveral | Grayson Towncar picks up at Port Orleans Riverside at 10:30am, so we reach the port around 11:30am. Our port arrival time is 1:45pm, and boarding often runs early, so plan on lunch on the ship. |
 | Tue Nov 10 | Castaway Cay | Docked 9am to 5pm. Glass Bottom Boat at 9:45am. |
 | Wed Nov 11 | Lookout Cay at Lighthouse Point | Docked 9am to 5pm. |
 | Thu Nov 12 | At sea | Full ship day. |
@@ -157,8 +157,8 @@ Your 8am to 6pm plan matches the park's hours exactly. Resort guests can get in 
 
 - Sami needs a child ticket (ages 3 to 9) and Dad needs an adult ticket (10 and up); Disney has no senior price. Aydin is free under 3.
 - November 1-day Magic Kingdom tickets have been running about $165 to $200 per adult before 6.5% tax, and a child ticket is $5 less.
-- Ways to pay less, best first:
-    1. Ask Yusif's friend. Cast members can buy park tickets for guests at 10% off.
+- Emiline says 1-day tickets usually aren't discounted, so the plan is to buy them yourself on disneyworld.com. If you'd still like to save a little, these are the options, best first:
+    1. Ask Yusif's friend. Cast members can buy park tickets for guests at 10% off, by phone or at Disney Springs Guest Services. On these two tickets that's roughly $35 to $40.
     2. Undercover Tourist or Get Away Today. Both are Disney-authorized sellers, usually a few dollars under Disney's price. Their prices include tax, so compare totals.
     3. Disney gift cards bought at 5% off with a Target Circle Card, then used to buy the tickets on disneyworld.com.
     4. AAA, if you're a member; discounts vary by region.
@@ -293,14 +293,14 @@ Outside food and drinks are allowed. Skip glass and loose ice.
 
 ### Monday: boarding the Disney Wish {#monday-boarding}
 
-Emiline is moving the Grayson pickup from 10:30am to about 12:30pm. The drive is about an hour, so that gets you to the terminal right around your 1:45pm port arrival time. Before the car comes, eat lunch at Riverside Mill around 11:30am and hand Dad's scooter back to the rental company.
+The Grayson pickup stays at 10:30am. The drive is about an hour, so we'll reach the terminal around 11:30am, ahead of our 1:45pm port arrival time. Emiline says Disney tends to run ahead of schedule. When she got to the port at noon on her own cruise, they were already calling every boarding group. If we do have to wait, the terminal has plenty of room. Check out of the rooms before the car comes, hand back Dad's scooter if it was delivered, have a snack, and save lunch for the ship.
 
 What to expect at the terminal:
 
 - Porters at the curb take your checked bags. Tip a few dollars a bag. The bags reach your stateroom by evening, so swimsuits, medications, Dad's CPAP and snacks stay in your carry-on and personal bags.
 - Next come security and a quick check-in. Since you're all checked in online, it's mostly a photo and your documents.
-- You wait in the terminal until your boarding group is called, then walk on. Later arrival times are usually the quieter ones, since the morning rush has already boarded.
-- First stop on board: Deck 11 for a late lunch at Marceline Market or Festival of Foods.
+- You wait in the terminal until your boarding group is called, then walk on. Stay close once you're checked in, since groups are often called ahead of schedule.
+- First stop on board: Deck 11 for lunch at Marceline Market or Festival of Foods.
 
 [Back to the list of sections](#jump-to)
 {: .to-top }
@@ -390,15 +390,15 @@ Disney Cruise Line screens every bag at the port and holds anything on its prohi
 
 The two most time-sensitive items are Sami's and Dad's park tickets and the scooter decision, since everything else on Sunday depends on them.
 
-- [ ] Buy Magic Kingdom 1-day tickets for Sami and Dad (discount options are in the Magic Kingdom section). Link both in My Disney Experience. Aydin is free.
+- [ ] Buy Magic Kingdom 1-day tickets for Sami and Dad yourself on disneyworld.com, today if you can. Buying them while signed in puts them straight into My Disney Experience, which Lightning Lane needs. Aydin is free.
 - [ ] Decide on Dad's scooter: preorder a delivery to Port Orleans Riverside (Sat Nov 7 to Mon Nov 9, numbers in the Magic Kingdom section), or rent Disney's at the park entrance when we get there at 7:30am. Disney's is $65 for the day plus a $20 deposit, first come first served, and it stays in the park. Plan on Disney's double stroller either way.
 - [ ] iPads: charge them, download shows and games for the flights, and pack them with chargers and kids' headphones
 - [ ] Return the shoes and order VAL
-- [ ] Confirm Emiline moved Monday's car from 10:30am to about 12:30pm.
+- [ ] Reply to Emiline: keep Monday's car at 10:30am, and we'll eat lunch on the ship.
 - [ ] Aydin's Southwest seat: a Flight Network supervisor is adding it and will email you. If there's no email by Wednesday, call Southwest at 1-800-435-9792 and ask them to sell him his own seat on WN3618 next to you. If the 2 checked bags (one under you, one under Yusif) aren't added before then, pay for them when you check in on the Southwest app Friday at 11:10am.
 - [ ] Breeze home: nothing to buy. Ask whether Aydin can bring a diaper bag as a lap child; if not, his things go in the family's bags.
 - [ ] Mom and Dad's Nov 14 bags: they'll pay for a checked bag each at the American counter at RDU, about $55 a bag, up to 50 lb and 62 inches.
-- [ ] Register Sami for the kids club by Friday on the Disney Cruise Line website, or at the open house Monday after you board (steps in Sami's section).
+- [ ] Register Sami for the kids club by Friday Nov 6 on a computer at disneycruise.com (My Reservations, then Online Check-In again, then the kids club tab), or at the open house Monday after you board (steps in Sami's section).
 - [ ] Decide on Lightning Lane Multi Pass for Nov 8. You can also decide that morning once you see the wait times.
 - [x] Disney Cruise online check-in for both reservations
 - [x] Car seats: Grayson Towncar has two on every ride
@@ -516,7 +516,7 @@ His passport goes in the family document folder. Kids club sign-up steps are jus
 
 The Oceaneer Club is free for potty-trained kids ages 3 to 10. Other Disney ships split it into an Oceaneer Club and an Oceaneer Lab. The Wish has one big club with themed rooms: Marvel Super Hero Academy, Star Wars: Cargo Bay, Fairytale Hall, Mickey and Minnie's Captain's Deck, and the Walt Disney Imagineering Lab, where kids design their own virtual roller coaster. Scuttle's Cove on Castaway Cay is free too.
 
-1. **Register by Friday, or on Monday.** Pre-registration is part of online check-in on the Disney Cruise Line website. Sign in, go to My Reservations, open your reservation and look for youth activities registration for Sami. It closes 3 days before sailing, so Friday is the last day. If you can't find it, skip it and register at the club's open house Monday after you board.
+1. **Register by Friday, or on Monday.** Emiline says this is easiest on a computer. Go to disneycruise.com and sign in, open My Reservations, click Online Check-In again (even though it's already done), and look for the kids club registration tab, then fill in Sami's details. It closes 3 days before sailing, so Friday is the last day. If you can't find it, skip it and register at the club's open house Monday after you board.
 2. **Finish on Monday.** Take Sami to the Oceaneer Club open house on Deck 2 after you board. Counselors finish his registration, you pick a secret word for checking him out, and he gets a band he scans going in and out. Kids can also ride a slide from Deck 3 straight into the club, which Sami will probably love.
 3. **Drop him off any time it's open.** The club usually runs from about 9am to midnight, and the Navigator app lists each day's hours and activities. Keep your phone with the app handy so counselors can reach you.
 4. **Scuttle's Cove on Castaway Cay:** no booking. Walk him to the desk any time from about 9am to 3:30pm, check him in, and pick him up there. Lunch is served.
