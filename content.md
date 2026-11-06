@@ -155,19 +155,12 @@ Your 8am to 6pm plan matches the park's hours exactly. Resort guests can get in 
 
 #### Tickets {#tickets}
 
-- Sami needs a child ticket (ages 3 to 9) and Dad needs an adult ticket (10 and up); Disney has no senior price. Aydin is free under 3.
-- November 1-day Magic Kingdom tickets have been running about $165 to $200 per adult before 6.5% tax, and a child ticket is $5 less.
-- Emiline says 1-day tickets usually aren't discounted, so the plan is to buy them yourself on disneyworld.com. If you'd still like to save a little, these are the options, best first:
-    1. Ask Yusif's friend. Cast members can buy park tickets for guests at 10% off, by phone or at Disney Springs Guest Services. On these two tickets that's roughly $35 to $40.
-    2. Undercover Tourist or Get Away Today. Both are Disney-authorized sellers, usually a few dollars under Disney's price. Their prices include tax, so compare totals.
-    3. Disney gift cards bought at 5% off with a Target Circle Card, then used to buy the tickets on disneyworld.com.
-    4. AAA, if you're a member; discounts vary by region.
-- Skip eBay, Craigslist and resold tickets. Disney tickets can't be transferred and are tied to a fingerprint once used.
-- Link both tickets in My Disney Experience once you have them.
+- Done: Yusif's friend bought Sami's and Dad's 1-day tickets. Aydin is free under 3.
+- If you buy Lightning Lane, get the ticket details from him and link Sami's ticket in My Disney Experience first.
 
 #### Does Yusif's friend need to be there? {#yusifs-friend}
 
-It depends on which kind of pass he's giving you, so Yusif should ask. Right now the plan is for him to meet us at the gate at 7:30am.
+He's meeting us at the gate at 7:30am with his family, so this is covered either way.
 
 - **Main Entrance Pass** (the usual friends-and-family pass): yes. He has to be at the gate for your first entry, then he can leave. These passes also have blockout dates and may need a park reservation for the day.
 - **Complimentary one-day tickets:** cast members get a small number of these each year. They work like regular tickets, so he wouldn't need to come.
@@ -244,7 +237,7 @@ This route makes one clockwise loop, so there's no doubling back: Fantasyland, S
 | Time | Where | What to do | Lightning Lane? |
 | --- | --- | --- | --- |
 | 7:00am | Riverside bus stop | Catch an early bus. A delivered scooter boards first by ramp. |  |
-| 7:30am | Fantasyland | Meet Yusif's friend at the entrance (the plan is 7:30am), then grab the double stroller at the rental spot inside. Then Seven Dwarfs Mine Train (Rider Switch, so you and Yusif each ride with Sami) and Peter Pan's Flight. | Not needed: early entry |
+| 7:30am | Fantasyland | Meet Yusif's friend and his family at the entrance at 7:30am, then grab the double stroller at the rental spot inside. Then Seven Dwarfs Mine Train (Rider Switch, so you and Yusif each ride with Sami) and Peter Pan's Flight. | Not needed: early entry |
 | 8:30am | Fantasyland | Winnie the Pooh and Under the Sea. Ask the first open shop for 1st Visit and I'm Celebrating buttons. | Not needed: short morning lines |
 | 9:15am | Storybook Circus | The Barnstormer (Aydin's first coaster, then Sami again), Dumbo, the Casey Jr. splash pad if it's warm. | Not needed: quick re-rides |
 | 10:00am | Tomorrowland | Buzz Lightyear, Tomorrowland Speedway, the PeopleMover. | Yes, for Buzz |
@@ -390,7 +383,7 @@ Disney Cruise Line screens every bag at the port and holds anything on its prohi
 
 The two most time-sensitive items are Sami's and Dad's park tickets and the scooter decision, since everything else on Sunday depends on them.
 
-- [ ] Buy Magic Kingdom 1-day tickets for Sami and Dad yourself on disneyworld.com, today if you can. Buying them while signed in puts them straight into My Disney Experience, which Lightning Lane needs. Aydin is free.
+- [x] Magic Kingdom tickets for Sami and Dad: Yusif's friend bought them. If you buy Lightning Lane, get the ticket details from him and link Sami's ticket in My Disney Experience first.
 - [ ] Decide on Dad's scooter: preorder a delivery to Port Orleans Riverside (Sat Nov 7 to Mon Nov 9, numbers in the Magic Kingdom section), or rent Disney's at the park entrance when we get there at 7:30am. Disney's is $65 for the day plus a $20 deposit, first come first served, and it stays in the park. Plan on Disney's double stroller either way.
 - [ ] iPads: charge them, download shows and games for the flights, and pack them with chargers and kids' headphones
 - [ ] Return the shoes and order VAL
@@ -585,14 +578,14 @@ The embarkation-day carry-ons cover what we'll need before the luggage reaches t
 
 ### Yusif's to-dos, documents and packing {#for-yusif}
 
-Yusif's most important jobs this week are locking down the three guest passes for Magic Kingdom, confirming Sunday's 7:30am meet-up with his friend, and keeping the documents for the four of us.
+Yusif's most important jobs this week are locking down the three guest passes for Magic Kingdom and keeping the documents for the four of us.
 
 **This week**
 
 - [ ] Ask his friend which kind of passes these are: a Main Entrance Pass (he has to be at the gate when you go in) or complimentary one-day tickets (he doesn't)
 - [ ] If it's the Main Entrance Pass: is Nov 8 blocked out, does he need a park reservation, and what time will he meet you
 - [ ] Ask whether the passes can be linked in My Disney Experience, which Lightning Lane needs
-- [ ] Confirm Sunday's meet-up with his friend: the plan is 7:30am at the Magic Kingdom entrance. Swap numbers in case anything changes
+- [x] Sunday's meet-up is set: his friend and his family meet us at 7:30am at the Magic Kingdom entrance
 - [ ] Pull together the documents for the four of us (the document folder below) and carry them in his carry-on
 - [ ] Download My Disney Experience and the Disney Cruise Line Navigator app. The Navigator chat works on the ship's network without buying internet.
 
